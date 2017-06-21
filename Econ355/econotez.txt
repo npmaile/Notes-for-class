@@ -1,0 +1,374 @@
+Ricardian Trade Model:
+	Don't be autocratic
+		Trade is the better way
+	Maximum Utility between supplier and consumers is at the tangency point between the highest indifference curve and the possibility frontier
+	Consumer willingness to pay for a good is represented by the slope of the indifference curve and is called the marginal rate of substitution
+	MRS=MU1/MU2 MUi being the marginal utility of good indifference
+	the consumption point that is best is where MRS=MRT/marginal rate of substitution = marginal rate of transformation = aL1/Al2=MU1/MU2
+	
+	Open Economy
+		In an open economy, the same two goods from above are each either produced by one or both of the countries involved. the only constraint is that the total value of consumption is equal to total production
+		P*1x1+p*2x2=p*1y1+p*2y2(expenditure=income
+		Under Equilibrium, MRS = p*1/p*2x2
+		
+
+The Heckscher-Ohlin Trade Model
+	Ricardian was good until WWII started
+	now the Heckscher-Ohlin Is a better model
+	an even better one is the Heckscher-ohlin-Vanek Theorem The theory is based off of the assumption that all countries have identical production technologies
+	2 countires (america and Brittain)
+	2 commodidies (wine and cheese)
+	2 factors (labor and capital)
+	4 major components:
+		1. Factor Price Equilization
+			8 assumptions
+				1. No artificial trade barriers
+				2. No transportation cost
+				3. Perfect Competition + Full Employement
+				4. Factors are mobile in each country but are immobile across national borders
+				5. No specialization (each country produces at least a little bit of each good)
+				6. Constant returns to scale on production, but different slopes between different industries
+				7. Both countries have identical technologies
+				8. No factor intensity reversal
+			Given those assumptions, factor prices will equalize between countries w=w*, r=r*
+			
+				
+		2. Stolper-Samuelson Theorem
+			Links commodity and factor prices
+			it assumes that in the long run, with free trade and perfect competition, profits will be zero in every industry price will equal the sum of inputs for each product
+			An increase in the price of the capital intensive good increases return to capital and decreases the return to labor in vice versa
+			Magnification effect: an increase in the price of a capital intensive good increases the return to capital more than proportionately. 
+		3. Rybczynski Theorem
+			assumptions: output prices held constant and factor prices are fixed. 
+			input-output coefficients remain constant. 
+			an increase in labor endowment increases the output of the labor-intensive industry and decreases the output of the other industry
+		4. Heckscher-Ohlin Trade Theorem
+		once the above assumptions are met, each country exports the commodity that intensively uses its abundant factor. 
+		
+		Leontief Paradox:
+			Professor Leontief reached a paradoxical conclusion that the United States in 1953 exported labor intensive stuff and imported capital intensive stuff. 
+			this could have been due to the wartime economy. this can also be caused when production of one commodity is labor-intensive in one country but capital-intensive in another. (Factor intensity reversal)the paradox could also have been caused by tariffs and transport costs or any number of things
+	
+Empirical tests
+
+Protectionism
+	Tariffs and quotas are mathematically the same
+		Look at charts to figure this out
+	arguments for protectionism:
+		fallacy of composition
+			What's good for our industry is good for the whole country
+		Keep money at home argument
+			falls apart because anyone who says it doesn't understand that money is only useful where it can be spent eg. the home country, so it will need to be used back at home anyway
+		Home market argument
+			"domestic producers should have a home market for their products. by elimination foreign imports, more jobs can be created"
+			said only by people who don't understand how comparitive advantage works
+		Equalization of costs argument
+			"hey fuckers, let's just destroy the reason for trade by making the price of foreign goods the same as home goods with tarrifs and shit"
+				fuck off with that shitty logic
+		National Security Argument
+			"a nation dependent on foreign sources of supply is vulnerable in a war"
+				falls apart when you realize we aren't doing any wars also, the only things that really need to be controlled are the exports of things that are actually useful for waging war
+		Infant Industry Argument:
+			"a new industry having a potential comparative advantage may not get started in a country unless it is given temporary protection against foreign competition."
+				protection will tend to last far too long. also, it will probably not be needed if the new product is actually useful enough. 
+		Antidumping argument
+			"some fireign firms prey on domestic producers by cutting prices to put a competing industry out of business and to raisse prices after"
+				this is actually not super cool, but the protectionistic policies should only show up when the issues occur. 
+				it's difficult for government to distingusih permanent(good) and predatory dumping
+		Reciprocity Argument
+			"The us Market is more open to imports than foreign markets. We need equal access to foreign markets"
+				Bad because domestic protection will lead to retaliation by the foreign state
+		optimal tariff:
+			"the optimal tariff maximizes welfare of a large trading country which acts like a monopoly in trade. it is based on the naive assumption that trading partners do not retaliate. the argument is that a large country can gain from a tariff if its trading partners do not retaliate"
+
+Factor Markets
+
+Multinational Corporations
+	3 stages of evolution
+		1. Initial inquiries=> result in first export
+		2. Initially, firms rely on export agents => expansion of export sales
+		3. =>foreign sales branch or assembly operations are established(to save on transportation)
+			Why do that?
+				limits to foreign exports due to tariffs, quotas, and transportation costs
+				Possible lower wage rates
+				laxer regulations
+				better ability to meet consumer demands
+				save on taxes
+		Motives for foreign direct investment:
+			1. Growth Motive
+			2. Bypass protection in importing countries
+			3. Avoid high Corporate Tax
+			4. Avoid high transportation costs
+			5. Avoid Exchange Rate Fluctuations
+			6. reduce competition(by buying them)
+			7. Secure essential inputs
+			8. Cheap labor
+	International Joint Ventures
+		they happen when a business or organization is established by two or more companies that combine skills and assets
+			Types
+				1. 2 businesses coming together
+				2. a business and a local business
+				3. a busines and a local government
+			Why do it?
+				1. Large capital costs
+				2. protection-- no import/export protections
+		yo taxes fam. They might be double charged n shit
+		transfer prices are also ta thing......
+Economic Integration
+	stages of economic integration
+	0.0	autarky
+	0.1 preferential trade agreements
+		lower tariffs among member countries
+	1. free trade agreenment
+		a group of countries don't have any restrictions on trade within the area, but each member country keeps its own tariff and quota system with third countries
+	2. customs union
+		when a group of countries remove all restrictions on mutual trade, and establish a uniform system of tariffs and quotas with respect to third countries
+	3. common market
+		remove all restrictions on movement of factors of labor and capital. also establish the same currency
+	4. Economic Union
+		single currency, central bank, unified fiscal authority. at that point make it one government and you have a perfect system (USA USA USA USA USA USA USA)
+Other Cusoms Unions
+	European Union:
+		1. European Commission
+			Has the executive power of the EU
+			the council appoints commissioners
+			27 Commissioners plus the president
+			initiates proposals for legislation with 3 interests
+				European Interest-good for the union as whole
+				Consultation-conslt as widely as necessary
+				Subsidiary-The union takes action if it becomes more effective than if left to individual member states
+		2. Council of Ministers
+			not the european council
+			made up of heads of states, it's president, and the president of the european commission
+			make laws of the following forms
+				regulations directly applied with no international measures
+				directives that bind member states to the objectives but permit national authorities to choose the form and means
+				decisions binding to those who are addressed
+				and recommendations that are nonbinding 
+		3. European Parliament
+			THey approve the union's budget, though it was originally supposed to have only a consulting role. leislative power is split with the council
+		4. Court of Justice
+			Started as a court regarding union laws
+			28 udges wit 6 year terms who elec the president of the court.
+			they interpret treatites and things of that nature
+General Agreements on Tariffs and Trade
+	GATT was established shortly after WWII
+		They made the IMF (international monetary fund) to facilitate international payments
+		they made the international bank for reconstruction and development
+		GATT was established in 1947 to make the ITO(international trade organization) to regulate world trade.
+		as a political complement, they established the UN
+		
+			World GOvernments
+				WTO/GATT regulates trade and investment
+				IMF regulates currency practices
+				IBRD(world bank) Allocates capital to developing countries
+				National governments have diplomatic rights
+				UN oversees international peace and war as well as territorial disputes
+				INternaitonal court of justice-part of the UN
+				WIPO (world intellectual property organization)deals with copyrights, trademarks, and things of that nature. 
+	Obligates each country to accort nondiscriminative, most favored nation treatment to all other contracting parties with respect to tariffs.
+	The most favored nation treatment doesn't mean free trade or national treatments. Imports can still have tarrifs or quotas but no countries recieve better treatment or lower tariffs save for a few exceptions
+		Exceptions
+			Existing tariff preferences like those in the Commonwealth of brittain
+			Gatt/WTO customs union formation
+			An excape clause that allows a party to leave or modify tariff concessions if it threatens injury to domestic producers
+	Prohibits use of quantitative restrictions on exports and imports. 
+
+World Trade Organizaion
+	The WTO is a legal and institutional foundation of the multilateral trading system. that allows regulation on international trade. It came about in 1995. 
+	acts as a forum for multilateral trade negotiations
+	seeks to resolve trade disputes
+	oversees national trade policiescooperates with other international institutions involved in global economic policy making
+	has provisions for resolving disputes unlike the Gatt
+		there's a lot of stuff about the WTO fam
+NAFTA
+
+Developing Countries
+	Developing countries are reliant on developed economies. 
+	usually their exports are primary products
+	they face massive consequences due to instability
+	ways of making prices more stable
+		Production and export control
+		setting price floors and ceilings
+		Buffer stock
+			government buys up when price is cheap and sells when it's expensive to help even out the supplies
+		Deficiency Payment Programs
+			The government pays producers directly to make up for price changes
+Foreign Exchange Markets
+	Participants in exchange markets
+		1. Foreign Exchange Dealers (mostly large banks)
+		2. Forign Exchange brokers ( for retail customers)
+		3. Central Banks
+			They shouldn't do much of it at all. they only intervene to prevent or effect currency value changes
+Balance of Payments
+	Flexible exchange rates
+		When rates aren't stabilized, the rates resemble closely a theoretical model of perfect competition.-all sellers and buyers are price takers. 
+		supply being debit transactions as payments by domestic residents to foreign residents
+		demand being the credit transactions as payments by forign residents to domestic residents. 
+	Fixed Exchange Rates
+		governments can declare a fixed level and a band of prices within which the exchange rates are allowed to vary
+		Hard Peg
+			A government ahs a permanantly fixed rate with a currency
+		adjustable peg
+			rates are periodically adjusted(bretton woods)
+		soft peg
+			day-to-day to quarter-to-quarter pegging
+		exchange control through foreign exchange rationing
+		wide band where rates are fixed with a considerable amount of allowe fluctuation
+		crawling peg- it has to stay within a level x percent within the average of y weeks
+		Currency baskets
+			A nation pegs its currency to a basket of currencies
+		Dollarization-
+			using the currency of another nation and giving up
+Organizing balance of payment accounts
+	Definitions
+		merchandise balance= Merchandise exports-merchandise imports
+		services=tranportation, insurance, travel, investment services, royalties, and other services.
+		Unilateral transfers= gifts
+		private transfers=expendetures for charitable organizations
+	Capital account record the changes in a country's international financial assets and liabilities. 
+		Capital inflow occurs when residents' financial liabilities increse (selling bonds to foreigners)
+		Direct Investment is a long term capital outflow
+			includes foreign brances+subsidiaries
+		Portfolio investments are where the investor doesn't have effective control over investments and covers transactions with maturity of more than one year. 
+		Short term capital flows= international transfers with maturity of one year or less. 
+	Official Reserve account records transactions of the central bank when it buys or sells foreign currencies
+		delays changes in exchange rates
+		counters disorderly conditions in the Forex market
+		
+	Goods and Service Balance= exports of services-imports of services
+	current account balance= exports-imports-Taxes
+	Basic Balance = current account balance - Long Term Capital Outflow. 
+		measures structural changes in a country's balance of payments
+	Liquidity balance = basic balance - Short term capital outflow
+	Official Reserve Transactions Balance
+		equal to basic balance - short term capital outflow of private sector
+Macroeconomic policies
+	Classic model
+		assumes prices and wages are flexible. 
+			there will be no unemployment as wage rates will just fall until everyone is employed. 
+	Keynesian and General Models
+		it is more reasonable to use the keynesian model post Great Depression. 
+		it assumes prices and wages are inflexible, but sticky downwards and that unemployment exists. 
+	THe model
+		Y=C+I+G+(X-M)
+		National income = consumption+investment+ Government Purchases+ (exports-Imports)
+		C=C(Y),C'=0
+		I=I^o
+		G = g^o
+		Y=C+S+T(S is saving)
+		When people save their money, it fucks up the whole model
+		equilibrium occurs when I+G+X=S+T+M(investments+government spending+exports=Savings+taxes+imports)
+		with no government I+X=S+M (investments+exports=savings+imports)
+		the paradox of saving is that when people save money autonomously in an open economy, their saving prevents consumption, which prevents gross output, which will de-value the savings leading to a net decrease in aggregate savings. 
+	General market of an Open Economy	
+		The domestic economy has 3 markets
+			product
+			money
+			external
+		Product Market equilibrium requires
+			Y=C(Y)+I(r)+G+(X-M)
+			
+			if this is confusing, go to https://en.wikipedia.org/wiki/National_savings and look that shit up. 
+			
+			marginal propencity to consume is the change in consumption/the change in disposable income
+			marginal propencity to consume is .77 in america.
+			every marginal 1 dollar in disposable income above leads to people saving 23 cents. 
+			
+			this whole part is confusing http://www2.econ.iastate.edu/classes/econ355/choi/mac.htm
+			have fun^^^^^^^^^
+		Open Economy
+			small country
+				Y=a+bY+I+X-mY
+				Y=(a+I+X)/(1-b+m)
+				
+			Forign trade multiplier is a thing. it is larger for a large country is greater than that for a small country.
+				
+		Just fuck me up fam-->    https://mises.org/system/tdf/International%20Trade%20and%20the%20National%20Income%20Multiplier_4.pdf?file=1&type=document
+		
+		General model of the Closed Economy
+			Equilibrium(with unemployment)
+				Y=C(Y)+I(r)+G
+				When aggregate demand is equal to the current output, actual inventories are exactly equal to the planned inventories. 
+				this yields the IS curve which isa locus of income and interest rate. 
+				The is curve is negative sloped. increasing R lowers investment which reduces GDP thorough the multiplier.
+		Money Market
+			Real money supply
+				Money supply speculative+transactions+precautionary demand
+				Transactions demand is k(Y+) and is proportional to demand. 
+				speculative demand is inversely related to interest rate L(r-)
+				Two components (nominal) money demand=L(r-)+kPY
+				(real) Money Demand = l(r-) +kY,K>0
+				M^s/P=l(r-)+kY
+				LM curve is positively sloped. 
+				
+				Rightward Shifts
+					M increases
+					P deceases. 
+				
+Internal and External Balance
+	Monetary policy is changing the interest rate ind influencing the monetary supply
+	fiscal policy is changing the tax rates and levels of government spending to influence aggregate demand in the economy. 
+	
+	balances externally, there will probably be unemployement
+	
+Effectiveness of Monetary and Fiscal Policies
+	I can't find anything on this... good luck with that shit. 
+Gold Standard
+	money used to be just based on gold and nothing else. 
+	When gold was being made, expansion was able to occur. 
+	otherwise, it didn't.
+	During the gold standard, prices wre stable, so little gold moved between countries. Countries adjusted the interest rates to keep gold from moving as much as possible. 
+		Problems
+			Gold standard is deflationairy. 
+			Economic growth is constrained by the gold supply.
+			THere is no ability to control the money supply.
+			there is no way to insulate the domestic economy from external shocks such as discovering large amounts of gold. 
+	The usa went away from the gold standard between 1919and 1925 due to fluctuating exchange rates. 
+	after 1925, we went back to it. 
+	US and Great Brittain were to hold only gold as a reserve asset. 
+	the dollar and pound were to be used as reserve assets for other countries. 
+	The dollar and pound were free to be converted to gold by central banks, but not for the general public. 
+	in September 1931, brittain suspended gold payments
+	in april 1933, Roosevelt suspended the gold standard. 
+Bretton Woods System
+	The Bretton Woods system was based on stable and adjustable exchange rates. The occasional dealuations of individual currencies were allowed to correct fundamental disequilibria in the balance of payments(BP)
+	By signing on to it, countries were submitting their exchange rates to international disciplines. 
+	The adjustable peg was seen as an improvement over the gold exchange standard. 
+	Currencies could be made to gold, but countries had the ability to change par values of currencies.
+		unanticipated problems
+		1. Over time, the world eocnomy grew and needed liquidity or reserve assets
+		2. Given the fixed quantity of gold, countries started holding the US dollar and gold as reserve. 
+		3. due to the growing economy of the world, demand for the dollar as a reserve assset meant the US was facing increasing trade deficets
+		4. Other countries could devalue, but the US couldn't devalue. 
+	they made the IMF after WWII and countries agreed to the following
+		submit a par value compared to gold
+		allow changes in the par value
+		allow their currency to be declared scarce
+		forbid restrictions on current account balances
+		retain exchange control restictions in effect when the country entered the fund
+	how a country financed trade deficits
+		The IMF helped them out
+	Reserve(gold)Tranche: 25% of quota was paid to the fund in gold
+	credit tranche: 75% of the quota was paid in the currency's own currency. 
+		the more each country held in tranche, the more power they had in the IMF and the more borrowin they could do. 
+	
+	Ways to correct balance of payment deficits
+		1. Deflate the economy(permanent but painful)
+			Use contractionary monetary policy(raise interest rates) or fiscal policy(cut federal spending)
+		2. Devalue own currency(permanent and effective under fixed exchange rates)
+		3. impose exchange control on current account(a temporary stopgap solution)
+		4. Deplete Gold stock(it will run out eventually)
+		5. increase liabilities to foreign central banks.(only speculators will gain)
+	US payment deficits in the 1960s
+		there was outflow of mad money fam through
+			a. higher return on foreign investments
+			b. military commitments in Europe and Asian
+			c. Vietnam War
+		Nixon got us completely off the gold standard to this stuff in 1971
+			90 day freeze on wages and prices
+			10%import surcharge on dutiable imports
+			suspention of dollar's convertability into gold
+	
+Contemporary Monetary System
+	read choi's notes ya damn self. i don't give a shit anymore. 
