@@ -1,0 +1,125 @@
+#Econ416 Industrial Organization
+GianCarlo Moschini
+moschini@iastate.edu
+
+What the h*ck is "industrial Organization"
+study markets and industries, especially how firms compete
+	--comes from microeconomics, focus on imperfectly competitive markets
+critical concept: market power
+	the ability to set prices above marginal costs
+Industrial Organization "questions"
+	Is there market power?
+		Market power = ability to set prices above costs
+		non--trivial mpirical question
+		chicago school: as long as there is free entry, market power is not significan
+	How do firms acquire and maintain market power?
+		Legal protection from competition
+		firms strategies matter
+	What are the implications of market power?
+		transfer wealth from consumers to firms
+		inefficient allocation of resources
+		rent seeking behavior
+		impacts on innovation and technical progress
+	Is there a role for public policy to address market power?
+		Antitrus(competition policy) -- Sherman Act (1890) and Clayton Act(1914)
+			Prohibits collusion among rivals, explicit cartels and price fixing arrangements
+		DOJ and FTC may review and oppose mergers and acquisitions
+		Regiulation
+	-antitrust and regulation
+Framework of analysis
+	study of industrial organization will focus on the competition between firms
+		need to look at the strategic ehavior of firma snd the sturcture of the market in which they compete
+	firms are treated as single decision makers that maximize profits
+		natural and common assumption
+		focus mostly on the competition between firms, will neglect internal organization issues
+	markets are analyzed in a partial equilibrium(PE) setting
+		PE means that we will look at firms' interactions within a single market
+		The PE framework permits a tractable meaningful welfare (normative) analysis
+------------------------------------------------------------------------
+Basic reveiw of microeconomic principles
+Demand
+	the ultimate source of demand is customer's uying behavior
+	Economic theory explains the nature of demand in terms of two building blocks
+		consumer's tastes and preferences(indiference curves)
+		consumer's budget constraint (determined by own income and market prices)
+		Demand functions: quantitiy demanded of any one good depends on all prices and income	
+	textbook (page 16)
+	Because most of our analysis is done in a partial equilibrium setting, we can hold fixed income and all prices except the price of the good of interest ->demand curves
+	The demand curve is written as D(p) to indicate that how much of a given good/service is purchased by consumers depends on its price p
+		higher price-> lower quantity: the demand curve is downward sloping, (dD(p)/dp)<0
+	An alternative, fully equivalent representation is the inverse demand curve
+			Demand curves slope down-- use calculus fam
+		the inverse demand curve p(Q) gives the market price for a given aggregate output Q	
+		it represents the consumers' (marginal) willingness to pay
+		of course, the inverse demand curve is also downward sloping: (dp(Q)/dQ)<0
+	a linear demand function can be written as D(p) = a-bp
+	the corresponding inverse demand function is p(Q) = \lambda - \beta *Q, where \lambda = a/b and \beta = 1/b
+	note that (dD(p)/dp)=-b and (dp(Q)/dQ) = - \beta
+Demand Elasticity
+	measures the responsiveness of demand D(p) to changes in price
+	definition	elasticity = (dD(p)/dp)*(p/D(p)) = ((\delta* D)/(\delta*p))* (p/D) = (\delta*D/D)/(\delta*p/p) = (%\delta*D)/(%\delta*p))
+	relative change in one over relative change in another
+	if elasticity is greater than 1, demand is elastic if elasticity is less than one the demand is inelastic. This depends on substitutes
+	the elasticity of demand determines how revenue R is affected by a price change because R=pQ and Q=D(p), then
+((dR)/(dp))=P((dD(p))/dp)+D(p) = (1+elasticity)D(p)
+
+welfare
+	to discuss the welfare iimplications of market outcomes we need to measure how consumers and producers value such outcomes in monetary terms
+	Consumer surplus: Area below the demand curve and above the price line
+	the demand curve displaysthe consumers' willingness to pay for each unit
+	the cost of goods to consumers is their marginal willingness to pay, and thus they enjoy a "surplus" of benefits for all consumed units(except the last one)
+profit = Revenue-Cost, or \pi = pq -C(q) where C(q) is the "cost function"
+Cost functions reflect the specific production processes that are carried out by the firm
+	We write C(q) to indicate that total cost depends on the amount q that is produced
+		it costs more to produce a larger q
+	The actual shape of C(q) depends on the technology of the firm (production function)
+Profit maximization requires cost minimization
+	to maximize profit, costs must be kept as low as possible for a given output
+		the fim achieves "production efficiency"
+A profit maximizing firm ALWAYS minimises costs
+The cost function C(q) is a succinct summary of production conditions for efficient firms
+Types of costs
+	Fixed costs (F):expense that does not depend on how many output units are produced
+		example a car for a taxicab
+		Fixed costs can be either sunk or avoidable costs
+			sunk have already been paid
+			avoidable are yet to be paid
+	Variable costs(VC): expense that depends on output level (example: fuel for a taxicab)
+Total costs C=F+VC
+	Total cost depends on the amount of output produced (and, also, on input prices...)
+	if q denotes the level of output, then the cost functions is C(q=F+VC(q)
+	C(q) tells us the total $ cost of all of the inputs required to produce q units of output
+Average costs (per unit costs)
+Average Fixed cost: AFC(q) = F/q
+Average Variable Cost: AVC(q) = VC(q)/q
+Average total cost: AC(q)= AFC(q)+AVC(q)
+Marginal cost(cost of an additional unit): MC(q) = dC(q)/dq
+
+Cost functions are often assumed to have "U-shaped" average costs
+	that may be plausible in many situations, but not always appropriate
+	Actual shape of cost curves depends on the technology of the firm(production function)
+Opportunity cost = value of the best foregone alternative
+	note the difference between "accounting" costs and "economic" costs
+entry/exit decisions: When all factors of production are valued at their opportunity costs, then, as long as the resulting profit is non-negative, the firm should continue to stay in business
+	this is the best way to understand the"zero profit" condition of competitive equilibrium
+	-all inputs are being rewarded as much as their best possible use...
+	note: a "sunk cost" is an asset which has zero opportunity cost
+zero profits is not an accounting issue, but an economic issue
+	understanding costs: Economic vs accounting
+	expensing: costs are counted when they are incurred
+	amortizing: costs spread over the useful life of the input (depreciation)
+	
+	Whether a cost is "sunk" or "avoidable" depends on the relevant time frame
+		Short run: time frame such that some factors of production cannot be changed
+		Long run: all facctors of production can be varied as desired fixed costs are avoidabe (never sunk) 
+In the long run, we are all dead.
+
+Economies of scale
+if AC does not change as q increases, then: Constant Retuns to Scale (RTS)
+if AC decreases as q increases, then: Economies of Scale (increasing RTS)
+if AC Increases as q increases, then: Diseconomies of Scale (decreasing RTS)
+	note the common U-shaped cost structures display all three cases of RTS
+Most efficient scale: Level of output at which the minimum AC is attained
+	Can help explain why some industries might be more concentrated than others
+The concept of the firm
+	"read the book"
