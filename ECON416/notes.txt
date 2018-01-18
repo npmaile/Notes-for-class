@@ -123,3 +123,34 @@ Most efficient scale: Level of output at which the minimum AC is attained
 	Can help explain why some industries might be more concentrated than others
 The concept of the firm
 	"read the book"
+Perfect competition
+Large number of buysers and sellers
+	everyone is aprice taker
+Homogeneous product
+	consumers view the product of different firms as perfect substitutes
+Perfect information
+	Everyone knows about prices and product attributes
+Costless entry/exit
+	no transaction costs to participate in the market
+	free access to technology
+Most real world markets are not perfectly competitive
+
+How do firms behave when they are price takers
+	Objective: profit maximization-- choose output level q to maximize \pi = pq-C(q)
+
+Optimality condition: choose q* such that p=(dC(q*)/dq) aka p=MC(q*)
+provided that \pi*=pq*-C(q*)>=0		aka p>=AC(q*)
+ie marginal cost = price and profit is nonnegative
+
+For any given price p each firm solves MC=p -> firm's optimal quantity supplied q*
+	When price changes, profit maximizing competitive firms change their optimal supply
+Industry supply S(p) tells us the amount produced by the totality of all firms operating in an industry
+in the short run the number of firms is fixed, say = n (no entryof new firms)
+	because the number of firms is fixed, industry supploy S(p) is simply equal to nq*
+	when price changes, firms' output change, hence industry supply also changes
+	if there are no fixed costs, in the short run these costs are assumed to be sunk
+
+in the long run the number of firms n operating in an industry can change (entry of new firms and/or exit of existing firms are both possible)
+	because the number of firms to n* is determined by equilibrium, industry supply S(p) is equal to n*q*
+	if there are fixed costs, in the long run they are assumed to be avoidable
+
