@@ -1,0 +1,58 @@
+MEMOS: the perfect memo
+
+Memo
+Date:	$date
+To:	$who it's for
+From:	$Who it's from
+Subj.:	$what it's about
+
+a short bit about what it's about. like a sentence or so
+
+the actual memo comes below
+
+Lists in a memo
+Start off with a sentence describing the list:
+
+	-put the items in there
+	-and so forth
+
+put in citactions in line (likethis, 2018)
+
+positive goodwill foreward looking closure
+
+
+Why use a memo?
+
+Primary purpose:	to inform people about what's going on
+secondary purpose:	Make yourself look good
+
+apa format: (Author, Year)<--Citation
+		Documentation(in it's own section)
+
+
+
+What is You attitude?
+
+It allows you to be a better writer
+
+talk about the audience not yourself
+refer to audiences request or order
+don't talk about feelings
+
+Use inclusive we. If we doesn't include the audience, it will alienate
+In negative situations, avoid "you"
+
+Audiences may not understand why a message has arrived or what it means to them. 
+Tell how message affects the audience
+don't mention communicators work or generosity
+stress what the audience wants to know
+
+focus on what the readers can do, get or what they are recieving. 
+
+Examples:
+in positive situations use "you"
+bad
+We now give you 20% back on purchases
+good
+you can now get 20% back on purchases
+
