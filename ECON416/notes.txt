@@ -153,4 +153,24 @@ in the short run the number of firms is fixed, say = n (no entryof new firms)
 in the long run the number of firms n operating in an industry can change (entry of new firms and/or exit of existing firms are both possible)
 	because the number of firms to n* is determined by equilibrium, industry supply S(p) is equal to n*q*
 	if there are fixed costs, in the long run they are assumed to be avoidable
+Competitive equilibrium in the short run - firms and industry
+Equilibrium = total demand equals total supply S(p*)=D(p*)
+	here, the firms' optimal desisions are subsumed intot hte supply function S(p*)
+Alternatively: because the number n of identical firms is fixed in teh short run, equilibrium requires
+	MC(q*)=p* , that is, each firm is choosing the profit maximizing output level
+	nq*=D(p*) , that is, the market clears (industry supply = market demand)
+	note: these two condidtions define a two-equation system that solves for two equilibrium variables:
+		The market price p* and firm output q* (industry output is simply Q*=nq*
+
+Comparative statics
+see figure 4.3 in textbook p. 72
+
+Competitive equilibrium - Long run
+In the long run there is freedom of entry or exit such that the number of firms is not fixed - instead, n* is determined by the equilibrium conditions
+	new firms will enter the marke tif positive profit can be made and existing firms can exit if profit were negative
+	firms produce at their "most efficient scale" i.e. where AC is minimized
+if the market demand function is D(p) and all firms are identical, the three equilibrium conditions are:
+	MC(q*)=p*: firms are choosing the profit maximizing output level
+	p*=AC(q*): firms make zero profit
+	n*q*=D(p*): the market clears (market supply = market demand)
 
