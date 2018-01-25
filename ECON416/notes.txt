@@ -174,3 +174,13 @@ if the market demand function is D(p) and all firms are identical, the three equ
 	p*=AC(q*): firms make zero profit
 	n*q*=D(p*): the market clears (market supply = market demand)
 
+We measure welfare as the sum of consumer surplus and producer surplus
+Consumer surplus: area below the demand curve and above the price line
+	the demand curve displays customers' willingness to pay for each unit
+	the cost of goods to consumers is their marginal willingness to pay and thus they enjoy a "surplus" of benefits for all consumed units (except the last one)
+
+Producer surplus: area above the supply curve and below the price line
+	the supply curve is a marginal cost curve and, if it is increasing, ithe firm gets paid the maximum marginal cost of the last unit for all units
+	producer surplus is essentially a measure of (variable)profit
+profit = producer surplus assuming fixed costs are sunk
+
