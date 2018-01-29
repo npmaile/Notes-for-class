@@ -155,6 +155,57 @@ Recast messages
 Determine Tone
 	Sometimes tone must be firm, direct or even blunt to achieve a specific result. But remember three things about tone
 
+Designing Documents
+Basic Principles
+	Use White Space
+	Use Headings
+	Use Lists (but not on every slide in a presentation)
+	Limit use of All Caps (especially in a sans serif font)
+	no more than 2 fonts in any single document
+	choose how you justify (create unity)
+	Use a grid to unify elements(visual Heirarchy)
+Patterns
+-Use visual heirarchy(not visual anarchy)
+	Z pattern--important areas are on the top left and bottom right
+	size
+	space and texture
+	Typeface: weight and paring
+	Color and tint/shade (retain contrast)
+	grid -- and consider breaking the grid
+	retain contrast
+Color
+-Differentiate Colors when they have meaning
+	Headings and subheadings
+	TextBoxes and sidebars
 
+Don't use visuals to decorate. They must be used to further explain, define or other stuff
 
+Message Packet
+	750-1000 words total 
+	written + Visual components
+	use chapters 1, 3, 6, 9, 10, 11
 
+**see complaint letter in canvas**
+
+responses to complaint letters (adjustment letters) can take one of three forms
+1.100% yes, in which all of the audience's requests are granted
+2.partial, in whic part of the audience's requests are granted and part not
+3.100% no, or delial, in which none of th eaudience's requests are granted
+
+Message 1. Write an email to your supervisor Frank Capra explainng the situation and describing possible solutions and persuading him to approve the oslution you believe best resolves mr. gable's situation
+
+Message 2. Mr. Capra approved your recommendation. Write an adjustment letter to Clark Gable
+
+Message 3. Mr Capra has been impressed with your performance lately and promoted you to manager. He would like to extend the company's return policy during the holiday season and needs you to work out the details and then compose a memo to all employees informing them of the specifics of the policy and ensuring compliance
+
+The objectives for this assignment include the following:
+	Analyze each audience involved carefully, identifying their expectations and the information they will need, as well as anticipating their reactions to the news each wil receive
+	Plan each message carefully before drafting
+	Order the information in each message effectively and design the messages for each audience's needs
+	Adhere to CCCBS(Clear, complete, correct, builds goodwill, and saves time) principles in all your messages
+	Write each message for maximum you-attitude and positive emphasis at and beyond the sentence level
+	Use strategies we have studied thus far for positive/informative messages, negative message, and persuasive messages. 
+
+additional insturctions
+	look carefully at the rubric for this assignment as you plan and draft your work
+	save all of your messages in one file, but insert page breaks between them
