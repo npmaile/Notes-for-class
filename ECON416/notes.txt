@@ -204,4 +204,23 @@ Turing pharmaceuticals and Daraprim
 firms that operate in markets without competitors can behave as monopolies
 	eqilibrium with a monopoly differs from competitive markets
 A firm is a monopoly if it is the sole supplier of a product for which there are no close substitutes (-> the demand curve facing the monopolistic firm is downward-sloping)
+A monopoly is constrained by market demand
+	if it sets the price then consumers will chose how much to buy 
+	if it chooses the quantity to sell, consumer demand will determine the price
+
+Thus, there are two equivalent ways of representing profit maximization for the monopolist:
+	Price-setting: choose price p to maximize profit subject to the demand function D(p)
+		maximize \pi=p*D(p)-C(D(p))
+	Quantity setting: Choose quantity q to maximize profit subject to the inverse demand function p(Q)
+		Maximize \pi=p(Q)*Q-C(Q)
+Optimality condition for monopolist: MR = MC
+Optimality condition(from quantity-setting problem):
+	Marginal revenue = Marginal cost
+
+At the margin, the monopolist's choice to sell one more unit of output has two effects:
+	It increases total cost (by the MC)
+	It decreases the price that the monopolist can cahrge(for all untis!)
+		The MR created by the last units is thus lower than the price charged
+Note: because dp(Q*)/dQ<0(i.e., demand slopes down), the monopolist charges a price p(Q*) that is higher than the marginal cost(i.e, it chooses to produce less that that the output level of equilibrium)
+
 
