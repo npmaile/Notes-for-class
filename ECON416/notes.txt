@@ -223,4 +223,12 @@ At the margin, the monopolist's choice to sell one more unit of output has two e
 		The MR created by the last units is thus lower than the price charged
 Note: because dp(Q*)/dQ<0(i.e., demand slopes down), the monopolist charges a price p(Q*) that is higher than the marginal cost(i.e, it chooses to produce less that that the output level of equilibrium)
 
+e ((dp(Q))/dQ)*(Q)/(p(Q))=1/\lowerepsilon , the monopolist MR can be expressed as MR=p(Q)(1+(1/\lowerepsilon)
+	the optimization rule MR=MC implies: (p-MC)/p*)=1/-\lowersigma or p*=(\lowersigma/(1+\lowersigma))*MC 
+
+This is the inverse elasticity rule, which says that the monopolists markup of price over mc is inversely related to the elasticity of demand (less elastic deman means higher price
+
+the margin (p-MC)/p is called the "lerner index" of market power (note that this index becomesequal to zero under competitive pricing p = MC
+
+Clearly, the learner index cannot be negative, and this implies that at the monopolist's profit maximizing solution demand must be elastic (that is, |\epsilon| >1
 
