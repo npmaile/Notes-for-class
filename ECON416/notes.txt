@@ -232,3 +232,28 @@ the margin (p-MC)/p is called the "lerner index" of market power (note that this
 
 Clearly, the learner index cannot be negative, and this implies that at the monopolist's profit maximizing solution demand must be elastic (that is, |\epsilon| >1
 
+A monopoly raises the price above marginal cost and restricts the amount of googd sold to consumers, and this creates a loss of social welfare
+	Because a monopolit's maximizes profit, it satisfies the "production efficiency" notion (it produces its chosen output level at the minimum possible cost)
+But: because a monopolist chooses a level of output that is too small relative to what is socially desirable, "allocative efficiency" is not satisfied
+	at Q* the consumers' marginal willingness to pay is higher than the MC of production
+	from society's perspective, the optimal quantity if the competitive level Q^0 (and Q^0 > Q*)
+(P^m -c)/P^m  Lerner Index
+the Deadweight loss due to monopoly can be computed as the change in the sum of consumer and producer surplus - see illustrations
+
+The deadweight welfare loss of monopoly is larger the more inelastic the market demand. 
+
+How does a firm become a monopoly
+Knowledge advantage
+	a firm possesses a superior production technique -- lower costs
+	a firm has exclusive access to technology for a new product
+		-intellectual property rights: patents, copywrights
+ncreasing returns to scale
+	for example, large fixed costs (common for the case of utilities)
+	case of the so-called natural monopoly: AC falling at all output level
+Mergers/cartels
+
+network effects
+	facebook
+"monopolist" is the only supplier in a market... what does it really mean?
+	role of demand and problem of market definition
+		"every frim is a monopoly in the sense that they are the only one selling the specific bit"
