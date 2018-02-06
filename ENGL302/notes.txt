@@ -209,3 +209,51 @@ The objectives for this assignment include the following:
 additional insturctions
 	look carefully at the rubric for this assignment as you plan and draft your work
 	save all of your messages in one file, but insert page breaks between them
+
+Letter format
+letterhead at the top
+Letterhead includes the return addres, so the return address isn't needed
+
+Inside address: the address on the inside of the letter in case the address gets screwed up on the outside
+
+Dear mr. whoever:
+
+blueprint paragraph saying what this is about
+
+heading all words but articles are capitalized
+two blank spaces before a heading
+one space after
+
+more stuff
+
+signature
+printed name
+title (Manager of moon-based operations)
+
+if something is inclosed
+Encl.: whatever's inclused
+
+cc. 
+
+
+-----------Appeasing the customer----------
+possibly give a freebie
+	extrinsic benefit
+better: intrinsic benefits
+
+
+-----------Delivering negatives-_-_-_-_-_-_
+If we use a reason in a negative message
+	it must be strong
+	the audience should accept it
+Use a buffer
+	a positive or neutral message to delay the bad news
+The proper order is as follows:
+	the reason
+	the negative
+	alternatives/comporomises/benefits
+How many times do we give the negative news?
+	one time
+end the negative message with 
+	good will, positive, forward looking
+Don't appologize if it's tiny/solved or if it's not your fault

@@ -257,3 +257,53 @@ network effects
 "monopolist" is the only supplier in a market... what does it really mean?
 	role of demand and problem of market definition
 		"every frim is a monopoly in the sense that they are the only one selling the specific bit"
+
+Public policies for market power
+Market power as parcticed by a monopoly leads to a welfare loss
+	monopoly leads to allocative inefficiency
+There are two general families of policy instruments to deal with the implications of market power
+	competition policy (in the US, typically referred to as antitrust)
+		antitrust measures are meant to foster and/or restore competition
+		Main areas of application include price fixing/cartels, mergers, and abuse of dominant positions
+	Regulation
+		useful when the root of market power is in the existence of large fixed costs (natural monoploy case)
+		Includes price caps and rate-of-return regulations
+Antitrust laws limit the exercise of market power by firms and contorl how firms compete
+	monopolies are not illegal, but certain actions to acquire and maintain monopoly power are forbiddent
+U.S. antitrust statutes originated with the sherman act (1890)
+	section 1 prohibits contracts, combinations, or conspiracies in restraint of trade
+		prohiits collusion among rivals and explicit cartels; price fixing arrangement are per se illegal
+	Section 2 prohibits monopolization or attempts to monopolize a market
+		courts' interpretation: it is not a crime to be a monopoly as long as the monopoly does not commit bad acts -> the rule of reason approach
+		forbids firms' exclusionary conducts (bad acts) that adversely affect competition; such cases involve predatory priicng, denying key product to rivals, vertical relationships and tie-in sales
+
+Clayton act (1914)
+	section 2 prohibits price discrimination
+	section 3 prohibitss exclusive dealing and tie in sales if they lessen competition
+	section 7 limits mergers that reduce competition
+	injured parties can get treble damages
+Federal trade commission act extablishes the FTC to stop that stuff
+
+Regulating monopolies
+-------------------------------------------------
+force the monopolist ot price at marginal cost if MC = c, then p^R = c
+	potential problems:
+	if there are large fixed costs, the monopoly would make negative profit
+	how does the regulator know the marginal cost of production
+Force the monopolist to price at average cost
+	example: rate-of-return regulation, which choses price p^R so as to allow the monopoly to earn a fair rate of return on capital investments
+		may lead to over investment in capital relative to other factors
+		does not provide regulated firm with enough incentives for R&D investment to reduce costs (i.e., it may affect the dynamic efficiency of the firm)
+ cap regulation
+	again, it may affect the dynamic efficiency of the firm
+	there is a subtle regulator's commitment problem
+Natural monopoly
+a natural monopoly can arise in a market where all potential firms face Scale Economies (ie increasing returns to scale) as for example if the cist function is C(Q) = F + cQ
+	in such a case, only one firm may emerge from market competition
+	this can also be efficient from society's point of view (the fixed costs F need to be incurred only once). But, because unrestricted monopoly leads to welfare loss, a commonly-invoked policy is to regulate the monopoly
+	regulation can take the form of a ceiling on the price the monopoly can charge
+		if the maximimum price allowed is equal to average cost ac, the monopoly can break even 
+		for regulated utiilities, this average cost pricing can take the form of so-called rate-of-return-regulation
+C(sub)d= dominant firm's marginal cost
+c(sub)F= marginal cost of firms in the competitive fringe( as noted, typically c(sub)F>c(sub)D)
+
