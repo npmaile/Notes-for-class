@@ -306,4 +306,102 @@ a natural monopoly can arise in a market where all potential firms face Scale Ec
 		for regulated utiilities, this average cost pricing can take the form of so-called rate-of-return-regulation
 C(sub)d= dominant firm's marginal cost
 c(sub)F= marginal cost of firms in the competitive fringe( as noted, typically c(sub)F>c(sub)D)
+ Discrimination refers to the practice of charging different prices to different customers for essentially the same product, or charging a single customer a price that varies depending on how many untis the customer buys
 
+Some veveryday examples of "price discrimination"
+	quantity discounts: pay les per unit if you buy more
+		foot long or 6" sandwich at subway
+		gallon of milk vs quart of milk
+	flat fee for unlimited quanitites
+	medical doctors fees discounts to hmos
+	senior discounts, student discounts
+	price reductions with "coupons"
+	matinee prices at the movie theater
+	time of day pricing
+	business class and econonomy class airline prices
+Price discrimination is a feature of non-competitive markets
+	in competitive markets, because of arbitrage, the law of one price typically prevails
+	an element that ensures arbitrage is the possibility of resale. For price discrimination to be feasible, it must be that resale is not possibe. This might happen because
+		transaction costs for buying and selling are too hgh for an individual
+		resale may be illegal
+not all price differences are due to price discrimination
+	Price differences that reflect variations in product characteristics... he moved to the next slide too fast
+Price discriminaiton, if it is feasable, can increase a monopolist's profits
+Think of a monopoly that charges a uniform price by the standard rule MR = MC
+
+Conditions for successful price discrimination
+	A firm must have some market power ( ability to set p> MC)
+	Ther frim must be able to identify whom to charge the higher price
+	a firm must be able to prevent or limit resale
+Types of Price Discrimination
+	perfect price discrimination first degree
+		each firm sells each unit at the maximum willingness to pay 
+	Selection by indicators practice of market segmentation third degree
+		profit is the revenue in each market added together minus the total cost
+		Sell to two markets at different prices 
+	Self selection: when buyers characterize whatever
+Market segmentation and the elasticity rule
+	The pirce is higher in the market with more inelastic demand and lower in the market with more elastic demand
+	because the monopoly treats the two markets as separate, the inverse elasticity rule applies separately to each market
+Perfect price descrimination
+	assume everyone buys 0 or 1 of the product
+	everyone has a different demand curve
+	charge exactly along the demand curve
+	How the h*ck do you do this?
+		Two-part tariff
+			Asked to pay price p for a unit and a fixed fee independent of how many units the consumer buys
+			The consumer wants to get their value out of the fixed fee
+
+Another way to perfect price discrimination: Take-it-or-leave-it offers
+	with a two part tariff, the monopolist optimally sets the price p and the fixed fee f and lets the consumer pick the quantity he/she wants
+	alternatively, the monopolist can offer one choice to the customer: buy quantity q and pay the toatal amount or buy nothing. the consumer will accept if the net surplus is non-negative
+	This take it or leave it strategy can produce the same outcome as the two part tariff
+	Suppose that a monopolist has two types of buyers, who can be clearly identified, that differ in terms of their demand. Then the monopolist can practice perfect price discrimination by offering to each buyer the exact quantity that htis customer would want to buy if the good was competitively priced, and charging the consumer the total surplus
+
+	In many markets consumers differ in their taste for a particular good and or in their income level, but the seller does not have enough information to tell consumers apart and it cannot force a different price scheme on different consumers
+
+	in such cases, second degree price discrimination can help the seller; by offer a menu of choices
+	The same menu is available to all consumers, but because consumers are different they will make different choices
+
+Oligopoly
+
+Oligopoly is a market with a small number of firms
+	this is an attracitve feature when analyzing real-world markets
+		contrast with: Perfrect competition (many firms) and monopoly
+	Main point: in an oligoopoly setting, firms cannot ignore the actions of other firms
+		This is unlike what happens in monopoly and competitive markets. 
+	Standard oligopoly model
+		consumers are price takers
+		firms produce a homogeneous product
+		there are only a few firms and the number is fixed (no entry)
+		Critical question: what can firms choose(strategic variables)
+			firms choose their own output level(cournot model)
+			firms choose the posted price they charge for their product(bertrand model)
+	The analysis of oligopoly models depends critically ont he use of game theory
+
+GAME THEORY
+	geme theory deals with the interactin decision making of rational individuals
+		main feature: the return to an individual depends not only on his/her choice but also on the choices of all other participants(strategic interaction)
+	a (normal form) game consists of hte following elements:
+		the set of(two or more) players
+		for each player, the set of actions that they can choose form
+		individual payoffs (as a function of the acitons taken y all playrs
+
+	prisoner's delimma (i'm not taking notes for this bit)
+
+Simple Cournot duopoly game
+	a cournot oligoopoly is a model in which firms choose their quantity level, simultaneously and independently of the other firm
+	a duopoly is an oligopoly with only two firms
+	the prisoner's dilemma works the same way with firms that choose quantity level
+
+
+Nash equilibrium identifies the action profile such that all players are playing a best response to the action of other players-- no player has a unilateral incentive to choose a different action
+
+Illustration: Cournot" duopoly(two firms and they compete by coosing their quantity level simultaneously and independently of each other. 
+
+In examples so far, players choose from a finite set of actions, but games and the nash equilibrium concept can be extended to situations where players have an infinity of actions
+
+A cournot oligopoly is a model in which firms choose their quantity level, simultaneously and independently of the ofther firm. A duopoly is an oligopoly with only two firms
+	in the duopoly model, firms one and two are the players and the actions they choose are their own quantity levels q1 and q2 where q1>0 and q2>0
+	assuming the firms maximize profit and they have a constant marginal cost equal to c
+	asume linear inverse demand function p(Q)
