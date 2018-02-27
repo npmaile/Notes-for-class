@@ -405,3 +405,18 @@ A cournot oligopoly is a model in which firms choose their quantity level, simul
 	in the duopoly model, firms one and two are the players and the actions they choose are their own quantity levels q1 and q2 where q1>0 and q2>0
 	assuming the firms maximize profit and they have a constant marginal cost equal to c
 	asume linear inverse demand function p(Q)
+In the cournot duopoly model firms compete by choosing their output quantitites. What if, instead, they compete y choosing prices at which they are willing to sell
+	bertrand competition
+bertrand modedl:
+	There are two firms with identical cost functions C(qi)=cqi(i.e., constant MC)
+	Firms choose prices: firm 1 chooses p1>=0 and firm 2 chooses p2>=0
+	As before, market demand is D(p)
+	BUT:	Consumers buy from the firm iwht the lowest price
+		if prices are the same (p1=p2), then the two firms split the market equally
+Again, here two firms compete by choosing prices, but they can choose any price.	
+	firm one chooses p1>=0 and firm 2 chooses p2>=0
+	both firms have a cost function C(qi)=cqi (i.e., constant MC)
+	Consumers buy from the firm with the lowest price
+	if prices are the same (p1=p2), then the two firms split the market equally
+recall key property of Nash Equilibrium: neither firm has a unilateral incentive to change
+	note: we can rule our prices below the marginal cost (becuase firms would be making negative profit) and, if any firm quotes a price strictly above the marginal cost, the other firm can undercut
