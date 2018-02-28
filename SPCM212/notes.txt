@@ -198,4 +198,9 @@ Types of appeals
 		Logic and reasoning
 		Appeals to audience's reasoning and logic
 Yo, watch out for Maslow's Hierarchy of needs
-	
+	Physiological needs	|
+	safety needs		|
+	social needs		|
+	Esteem needs		|
+	Self-actualization	\/
+
