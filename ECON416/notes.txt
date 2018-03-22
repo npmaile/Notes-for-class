@@ -420,3 +420,101 @@ Again, here two firms compete by choosing prices, but they can choose any price.
 	if prices are the same (p1=p2), then the two firms split the market equally
 recall key property of Nash Equilibrium: neither firm has a unilateral incentive to change
 	note: we can rule our prices below the marginal cost (becuase firms would be making negative profit) and, if any firm quotes a price strictly above the marginal cost, the other firm can undercut
+
+Comparitive statics in duopoly competition
+	Nash equilibrium permits us to understand strategic interaction between firms in a noligopoly
+		solutoin depends on fthe parameter of the modedl
+		so what happens when such parameters change?
+	Comparatitve statics studies how equilibrium changes when something in the model changes
+	example: change in the unit cost of production. Suppose that the unit cost of both firms changes from c0 to c1>c0. How does the NE of the cournot model change?
+		the competitive and monopoly equilibrium quantities q^M and q^C would both decline
+		the best response function of each firm shifts down
+		the total quantity declines and the market price increases
+r
+
+pass through cost increase to price under cornot is dp/dc = 2/3
+
+what if only the cost of one firm changes?
+
+when the demand is p=a-q1-q2 and the unit costs of the two firms are c1 and c2, respectively, we find :
+(see slides)
+
+monopoly, oligopoly and market power: the big picture
+	monopoly makes it clear why market power is important and how it matters
+	market power permis supra-competitive profit by limiting production and raising prices beyond mc 
+		good for monopolistic firm, bad for society 
+	oligopoly highlights important of firms' strategic interaction
+		exercise of market poer limited by competition between firms; mode of competition matters a lot
+		cornot(quantity) copmetition
+		bertrand(price) competition same outcome as perfectly competittive markets!
+
+short term, they do it cornot as they dont want to lower prices to the point they can't produce enough. 
+Long term, it goes more to bertrand because they can keep lowering the price to monopoly levels. 
+
+cheating also escapes the bertrand paradox n shit
+
+Oligopoly and the loss of market power due to competition
+------------
+competition is bad from theperspective of oligopoly firms
+	relative to monopoly, competition (both cornot and bertrand) increses total output and reduces price an total industry profit
+	price competition (->bertrand paradox) is particularly bad for firms
+Each firm acts selfishly and independently it's action may negativley affect the profitability of other firms, but they do not care about htis "externailty"
+	examples: cournot competitior or Bertrand competitor
+firms in an oligopoly have a clear incentive to coordinate their ation in orde rto increase profits... strategies and behavior in the pursuit of that goal are generically referred to a socllusion
+collusive behaviro can take several firms
+	explicit price fixing (a cartel)
+	tacit collusion (informal understanding)
+Cartel
+--------
+A cartel is a group of firms that coordinate their pricing and output activities
+	if the cartel includes every firm in the industry, it is effectively a monopoly
+	if it includes only the largest firms, it is effectively a monopolist with a competitive fringe
+	the typical objective is to restrict supply and or increase price
+		industry moves closer to monoopoly solution(highest industry profit)
+A famous example: the Diamond cartel
+	diamods were discovered in south africa in 1867. 
+		before that they were only found in india and brazil
+	Econonmy of scale in diamond digging lead to consolidation
+	In 1887, thanks to efforts of Cecil Rhodes, the DeBeers Mining Company was created
+		Dominance of south african diamond mining
+		created distribution channel the "diamond syndicate"
+		by beginning of 20th century, DeBeers controlled 90% of the world diamond market
+		Early awareness that high prices were related to the notion of scarcity
+		advertizing strategy to bring diamonds to the general public "diamonds are forever" aka not to be resold
+How did the cartel work?
+	Own a large share of mining operations and persuade other suppliers to work otgetther
+	Key tool: the Centeral Selling Organization
+		Centralizes acquisition of rough cut diamonds for grading and resale
+		Offer opprotunity for control of output put on the marke tand prices offered to producers and charged to dealers
+		delares fear being excluded from "sight" ssale events
+	Threat of retaliation to ensure compliance
+The lure, and risks of collusion
+	Collusion clearly cna increase the total profit of firms that operate in an oligopoly
+	why are not all industries organized as cartels?
+	Price fixing is illegal in the US (Sherman Act of 1890 and other antitirust legislation) and in many other countries
+	Some international cartels are not illegal (OPEC)
+How collusion can happen: repeated interactions
+	A major reason why collusion is diffictult to rationalize in the foregoing model is that firms only interact once "one shot game"
+		Temptation to "cheat" is irresistible for players because "there is no tomorrow"
+	An alternative (more ralistic) assumption is to presuem that firms interact many times
+	if firma operate in the same market for a long period of time, they get to choose theri prices time and time again. 
+		the strategic interaction between firms can be modeled as a "repeated game"
+		in a repeated game, firms can influence each other by signanling thier intention ot ocllude 
+		other firms can "punish" firms for cheating
+	Collusion can become a self-inforced nash equillibrium
+
+
+Repeated games
+	a game where players play the sam stage game more than once
+(see illustration)
+ut suppose that htis game is played an indefinite number of times.
+	at each "stage" players make their choices and get hte payoff, sas per the above tbale
+	after each stage, ther is a probibiltiy > 0 that the game will be played again
+	because at any stage a player can choose actions depending on what was chosen in past staes, players can use their action to signal their willingness to copoperate with the other player, and or can use their action to punish the other player for actions taken tin the past
+	Note: the notion of retaliation
+in this repeated game setting, can "cooperation" be sustained? as a nash equilibrium
+	for this outcome, we ned to find an angreement that is a nash equilibrium
+	--recall: nash equilibrium actions are self-enforcing!
+Players chosse C for a while until one player decides to cheat and play D. If one of the players cheats, the other person will play D forever. 
+
+
