@@ -517,4 +517,9 @@ in this repeated game setting, can "cooperation" be sustained? as a nash equilib
 	--recall: nash equilibrium actions are self-enforcing!
 Players chosse C for a while until one player decides to cheat and play D. If one of the players cheats, the other person will play D forever. 
 
+the same thing happens if you put numbers into the thing
+
+the parameter \greekletter has been interpreted so far as the probablility of future interactions
+	A more standard story is that firms are sure they will e interacting in thte future, but the fugutre is not bavlued the same as the present - the timve value of money
+		need to sue discounting
 
