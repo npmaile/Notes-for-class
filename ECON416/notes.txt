@@ -522,4 +522,71 @@ the same thing happens if you put numbers into the thing
 the parameter \greekletter has been interpreted so far as the probablility of future interactions
 	A more standard story is that firms are sure they will e interacting in thte future, but the fugutre is not bavlued the same as the present - the timve value of money
 		need to sue discounting
+Concentration and market power
+INdustry analyses and policy discussions in industrial organization often relat to tconcentration
+	example: antitrust cases related to mergers and acquisition
+	but the over arching concern in Industrial orgazinzation relates to market power
+how are these two concepts related?
+Market power is the bilitiy fo firms to raise price above marginal cost
+concentration in a market refers to just how many relevant firms there are 
+monopoly N=1
+douopoly N = 2
+oligoopoply N>2 but N is "small"
 
+how do the duoopoly results change when there are more than 2 firms but n is small
+
+there are n firms, each choosing its quantitiy level zi>=0 independently of the other firms
+	firms are identical with cost function C(qi) = cqi (ie, constant MC = c)
+	Market price is determined by the linear (inverse) demand function p=a-Q, where Q=q1+q2+...qn
+
+-q+[a-N*q-c] = 0
+a-c=q*(N+1)
+q*=(a-c)/(N+1)
+what each firm will produce in equilibrium
+
+concentration in a market refers to how many relevant firms there are. 
+	When all firms are identical, then concentration is simpley described by the number n, but when firms are different--i.e., they have different market shares we need to account for that. 
+	a useful measuere is the concentration ratio Cm, the total market share of the m largest firms
+	a common used concentration ration is C4=s1+s2+s3+s4 (market share of the top four firms) where xi=qi/Q
+	another common measure is the Herfindahl index
+
+market power and concentration measures
+	an over-arching motive of interest in Industrial Orgainization relates to market power
+	we measure it as the price markup over marginal cost, i.e., (p*-MC)/p*
+When firms are not identical (eg, they have different production costs), they will have different cost-price margins (because price is the same for all firms, but MCs are different across firms)
+	In such cases, market power is measred byt he lerner index
+concentration in a market refers to how many relevant firms there are
+	a standard measure of concentration is the Herfindahl index
+
+IF firms compete as in the cournot model, then we can show that Lerner Index = H/-elasticity of demand
+	this establishes a clear relationship between market power and concentration
+	the higher the market 
+
+in the cornot model with many firms we used the deman dfunction Q=a-p. here we make it a bit more general by using Q=(a-p)S, where S is s a measure of "market size"
+	inverse dmenad curve: p= a - (1/s)Q see illustration
+also, we allow firms to have a fixed cost f, that is, the cost function is C = cq+F
+
+what determines how many firms are active in a give industry?
+	this is the result of firms' entry and exit decisions. our presumption is that;
+		if profit is greater than zero, there is an incentive for firms to enter. if profti is less than zero, there is an incentive for firms to exit the industry
+
+the evoloution of concentration: mergers and acquisions
+	what determines concentration in any one industry?
+		firms entry and exit are things
+Another major influence on industry structure is that of Mergers and Acquisitions
+	horizontal mergers: mergers between ocmpetitors
+	vertical mergers: firms merging in the production/marketing chains
+	conglomerate: mergers between loosely related or industry unrelated frims. 
+Motivations for mergers and acquisitions
+	increase market power/collusion
+		two competitors in a duopoly market can improve collusion by gerging and create a monopoly
+		collusion is easier in mor concentrated industries
+	Exploit cost efficiencies
+		reduce overhead duplication and achieve economies of scale
+		share technologies
+		benefit from complementarities (synergies)
+Consider a cournot oligopoly with 3 firms, where market demand is D(p)=a-p
+	initially all firms have the same cost function C=F+cq
+	in a symmetric equilibrium, all three firms produce the same level of ouptut, obviously get the same price and make the same profit
+
+	
