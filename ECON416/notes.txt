@@ -589,4 +589,6 @@ Consider a cournot oligopoly with 3 firms, where market demand is D(p)=a-p
 	initially all firms have the same cost function C=F+cq
 	in a symmetric equilibrium, all three firms produce the same level of ouptut, obviously get the same price and make the same profit
 
-	
+The department of justice takes care of some of these things. 
+
+Mergers are basically allowed if the herfindahl index is < 1500 and won't change by more than 100 points, suspect if it's moderately concentrate H 1500-2500 and the h will raise by 200 points or so, and if the herfendal index is bigger than 2500, it's likely too concentrated. 
