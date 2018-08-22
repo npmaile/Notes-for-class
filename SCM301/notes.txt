@@ -3,7 +3,7 @@ Introduction to supply chain management
 Companies produce goods and services
 SILOS are when different parts of firms don't talk to each other
 
-What is a Supply Chain?
+What is a Supply Chain? (see slides for all of these things)
 A supply chain consists of hte flow of products, services, money, and information from:
 	raw materials manufacturers
 	Component an dintermediate manufacturers
@@ -12,13 +12,48 @@ A supply chain consists of hte flow of products, services, money, and informatio
 Connected by transportation and integrated through information, planning, and other ocordination activities.
 ((Customers))
 
+Supply chain management can be defined a few different ways. 
+The design and management of seamless, value-added process across organizational boundaries to meet the real needs of the end customer ~ institute for supply mainagement
+managing supply and demand, sourcing raw materials and parts, manufacturing and assembly, warehousing and inventory tracking, order entry and order management, distribution across all channels, and delivery to the customer ~ the supply chain council
+The planning and management of all activities involved in sourcing and procurement, conversion, and all logistics management activities... also includes coordination with channel partners, which can be suppliers, intermediaries, third party service providers and customers. ~ council of supply chain management professionals
+
+Pantene Shampoo (see slides)
+They have a bunch of things up in the air they need to deal with
+
+The book takes supply chain and splits it into the following
+supply management + Operations Management + Logistics
+get the bits + put em together + get em to the customers
+integration combines all of the above. 
+
+Additional foundations include supply elements;
+	supplier management
+		evaluation
+		certification
+	Strategic partnerships. 
+Operations elements:
+	Demand management
+	MRP and ERP systems
+	Lean systems
+	Six Sigma
+logistic elements:
+	Transportation management
+	warehouse management
+	global logistics
 
 
 
 
+Acronyms:
+TLA: Three letter acronym
+MRP: materials requirements planning
+ERP: enterprise resource planning
 
-
+Career tips:
+If you understand how someone is measured and rewarded, you will understand their behavior
 
 
 Prof's life pro tips:
 get a hobby
+
+places prof says to travel to:
+Indonesia
