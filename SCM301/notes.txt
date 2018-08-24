@@ -39,7 +39,37 @@ logistic elements:
 	Transportation management
 	warehouse management
 	global logistics
+Importance of Supply Chain Management
+	Firms using supply chian management:
+		start with key suppliers
+		move on to other suppliers, customers, and shippers
+		integrate second tier suppliers and customers
+	Cost savings and better coordination of resources
+		reduced bullwhip effect
+Origins of Supply Chain Management
+	1950s and 1960s
+		US manufacutrers focused on mass production techniques as their principal cost reduction and productivitiy improvement strategies
+		generally demand was greater than supply
+	1960s and 1970s
+		Introduction of new computer technlology lead to develpment of materials requirements plannign and manufacutrre resource planning to coodinate inventory management and improve internal communication
+	80s and 90s
+		Intense global competition led us manufacturers to adopt:
+			supply Chain Management
+			Just In Time
+			Total quality management
+			Buinsess Porcess Reengineering Practices
+	2000s and beyond
+		industrial buyers wil rely more on 3rd party logistics providers and shit dawg. 
 
+Expanding the Supply Chain
+	Firms are expanding partnerships and building facilitiees in foreign markets
+	The expansion inviolves:
+		breadth: foreign manufacutring, office, and retail site,s foreign duppliers and customers
+		depth: second and thir dtier customers and suppliers
+	Increasing supply chin responsiveness
+		all sorts of crazy stuff they're trying to do. 
+	The greening of supply chains
+		Increasing the sustainability. 
 
 
 
@@ -47,13 +77,21 @@ Acronyms:
 TLA: Three letter acronym
 MRP: materials requirements planning
 ERP: enterprise resource planning
+JIT: Just in time
+TQM: Total quality managemtn
+BPR Business process reengineering
+
 
 Career tips:
 If you understand how someone is measured and rewarded, you will understand their behavior
-
+Don't kill your customers
 
 Prof's life pro tips:
 get a hobby
 
 places prof says to travel to:
 Indonesia
+
+hobbies to develop:
+Building Hard Drives
+
