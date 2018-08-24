@@ -31,5 +31,21 @@ Have the assignments printed before class starts or turn them into the Xibo at h
 -----------------------------------------------------------------
 Week 1
 -----------------------------------------------------------------
+Chapter 2 (see slides)
 
+We look at markets and they tell us exactly what things are worth very well. 
+The market is bad at telling the value of the environment as an asset. 
+
+Economists like to go for efficiency. 
+Efficiency is a normative statement: how the world should be
+
+positive is a claim about how the world is and can e tested.
+Efficiency: maximize producer surplus and consumer surplus
+
+Conditions of goods that help achieve efficient quantities and prices:
+	Exclusivity
+	tansferability
+	enforceability
+Externalities:
+negative externalities mean that we are producing too much and the price is too low. 
 

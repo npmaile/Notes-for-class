@@ -24,6 +24,42 @@ B	83
 C	73
 D	63
 
+Five Forces and industry profitability individual paper thing 8% of grade
+	pick a company
+	look at the five forces
+	make a memo to the president of the company
+	2-4 pages.
+Team Project:
+	regression analysis
+	He'll give us a dataset of enrollment at a particular midwestern institution (us)
+	we'll come up with a theorhetical model to determine what factors determine enrollment
+	we'll come up with a demand curve via regression analysis
+	show off the results, implications, and such
+	some of the data he gives us might not be used btw. 
+	start with a full model and whittle it down to a set of things that work.
+	Write a memo to the president less than 2 pages. start with a punchline "our policy recommendation is..."
+	The other paper is to the professor 3-5 pages: walk through the process and convince him that we've done a good job
+
 --------------------
 Managerial Economics
 --------------------
+Why do people go to college?
+	money.
+What are the marginal costs of college
+	tuition
+	can't work while in school
+	can't learn a trade while at school
+	delta housing
+	books (lol)
+	delta food
+	delta clothing
+
+What are the marginal benefits of college
+	higher wages later on
+	career exploration
+
+
+In economics we make decisions on the margin
+
+Ladership quote of the day: 
+life is connected. Where you are today is a result of decisions you made in the past and where you will be tomorow in every area of your life, is connected to what you do today and what you do 
