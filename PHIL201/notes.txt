@@ -65,4 +65,25 @@ The nagging todler is now known as a skeptic
 Argument: one or more statements that are connected together in order toprove or make probable the truth of another statement
 Premise: hte statements that provide support or evidence
 conclusion: the statement that is (supposed to be) supported or proven by the premises. 
+Strategies for attacking an argument:
+	Show that one or more of the premises is false
+	show that even if the premises were true, they would not by themselves establish the conclusion. 
+Responses to the problem of justification:
+	accept the argument:
+		complete sketicism
+	Premise #3 about arguing is wrong: the evidence doesn't necessarily need to be ""new"" 
+		foundationalism: some evidence is foundational
+		Coherentism: Different judgements may justify each other
+The argument presupposes that the knower is able to supply the justification but all that is required is that the knower be justified
+	externalism about justificaiton
+		e.g., Reliabilism: so ong as the judgement is formed by a reliable process (whether or not the knower knows this), it is justified. 
+Foundationalism:
+	the view that any judgement that counts a knowledge is eighter:
+		1. foundational
+			for descartes, foundational judgements are self evident or
+		2. inferred from some other judgements that counts as knowledge
+	inferential judgement:
+		a judgement that depends on some other judgement for its evidence and justification
+	self-evident judgement:
+		a judgement that provides its own evidence and justification
 
