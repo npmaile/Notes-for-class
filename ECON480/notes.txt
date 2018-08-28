@@ -54,3 +54,21 @@ sum demand functions horizontally for private goods
 
 public goods are about fixed quanitites, but the prices vary per person
 
+Evaluating tradeoffs and benefit-cost-analysis
+	benefit-cost analysis
+		if benefits are greaer than costs, take action
+		passing a benefit-cost test does not imply optimality
+
+	net benefits and static efficicency
+		up to this point, we've assumed time isn't imortant
+		many cases where time is important
+			exhaustible resources
+			renewable resources
+			stock pollutants (persist and accumulate over time)
+		how do we make choices when benefits and costs occur at different points in time following from some action today?
+	present value
+	dynamic efficiency
+	regulatory context
+	risk and CBA
+	cost-effectiveness
+
