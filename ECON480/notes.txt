@@ -49,3 +49,8 @@ Conditions of goods that help achieve efficient quantities and prices:
 Externalities:
 negative externalities mean that we are producing too much and the price is too low. 
 
+sum demand functions vertically for public goods
+sum demand functions horizontally for private goods
+
+public goods are about fixed quanitites, but the prices vary per person
+

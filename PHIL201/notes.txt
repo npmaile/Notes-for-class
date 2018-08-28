@@ -86,4 +86,17 @@ Foundationalism:
 		a judgement that depends on some other judgement for its evidence and justification
 	self-evident judgement:
 		a judgement that provides its own evidence and justification
+	Descarte's Criterion for Self eviden tknowledge:
+		absolutely certain
+			Same as psychological conviction?
+				No, Because I could be mistaken
+			indubitable (unable to be doubted)
+			impossible to be mistaken
+		Descarte's test to dertermine whether a judgement is not self-evident
+			if there is any possible scenario in which my judgement (made on the basis of partiular evidence) would fail to meet the criterion for self-evident knowledge, then my judgement is not self-evident knowledge
+		Probable: likely to happen
+		possibel: could be (even if very unlikely)
+			tomorrow eill be hot.
+			A singkhole will swallow Pearson Hall tonight
+		logical possibility: conceivable without contradiction
 
