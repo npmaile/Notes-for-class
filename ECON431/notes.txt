@@ -61,5 +61,22 @@ What are the marginal benefits of college
 
 In economics we make decisions on the margin
 
+Economics: The study of the allocation of scare resources to produce goods and services and to allocate them for consumption among competing and unlimited wants. 
+
+Production is a function of Labor and Capital
+
+Consumer noncessation: unlimited wants
+
+Pareto efficiency: you cannot make one person better off without making someone worse off. 
+
+Corporate social responsibility
+Milton Friedman: make money and dont break the rules.
+
+Time value of money
+Presenvt value of an amount to be received at the end of "n" periods when the per period interest rate is I
+
+PV=(FV/(1+i)^n)
+
+
 Ladership quote of the day: 
 life is connected. Where you are today is a result of decisions you made in the past and where you will be tomorow in every area of your life, is connected to what you do today and what you do 

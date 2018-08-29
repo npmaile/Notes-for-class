@@ -99,4 +99,9 @@ Foundationalism:
 			tomorrow eill be hot.
 			A singkhole will swallow Pearson Hall tonight
 		logical possibility: conceivable without contradiction
-
+			Jones's biological mother has no biological children
+			I hold my breath for 24 hours straight. 
+			one of the above ^^ is not logicaly possible, while the other is possible. 
+		Is there a test that I can perform right now that would prove that I am not asleep right now?
+			That is, we can fill in the folowing blank:
+				No dreams could have this feature: 

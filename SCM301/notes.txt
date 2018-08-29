@@ -70,6 +70,18 @@ Expanding the Supply Chain
 		all sorts of crazy stuff they're trying to do. 
 	The greening of supply chains
 		Increasing the sustainability. 
+A really brief history of purchasing
+	Prominatory point: where railroads met 
+Purchasing - key business function for acquiring materials, services and equipment
+contracting - term often used for the acquisition of services
+supply management - a newer term that encompasses all acquisition activities
+Material Requisiton/Purchase Requesition ("req")
+	states product, quanitty, and delivery date
+	may originate as a planned order release from the MRP system
+	traveling requisition used for recurring orders. 
+Request for quotation/Proposal (RFQ/RFP
+	Is the buyer's offer
+
 
 
 
@@ -94,4 +106,5 @@ Indonesia
 
 hobbies to develop:
 Building Hard Drives
+Building Railroads
 
