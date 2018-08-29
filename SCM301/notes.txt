@@ -81,8 +81,34 @@ Material Requisiton/Purchase Requesition ("req")
 	traveling requisition used for recurring orders. 
 Request for quotation/Proposal (RFQ/RFP
 	Is the buyer's offer
-
-
+Make or buy decision:
+	Outsourcing
+	Vertical integration
+		backward
+		forward
+	Reasons for buying or outsourcing
+		cost advantage (maybe)
+		insufficient capacity
+		lack of expertise
+		quality
+		strategic benefits of using best-in-class suppliers
+		greater flexibility in the purchase of rapidly developing new technologies
+		design cycle time reduction
+		less captial is required -> risk transferred to the supplier
+		technology
+	Reasons for making
+		Protect proprietary technology
+		No component supplier
+		Better quality control
+		Use existing idle capacity
+		Control of lead-time, transportatoin, and warehousing cost
+		lower cost (per unit, usually)
+	make vs buy analysis assumptions
+		all costs can be classified as fixed or variabble
+		fixed costs remain the same
+		a lineral variable cost relationship exists
+		the fixed cost of the make option is highter because of initial capital investment (equipment)
+		variable cost of buy option is higher because of supplier profits
 
 
 Acronyms:
@@ -100,6 +126,7 @@ Don't kill your customers
 
 Prof's life pro tips:
 get a hobby
+When you get married to another person, one of you will think you've married a slob and the other will think they've married the most anal retentive person in the universe
 
 places prof says to travel to:
 Indonesia
@@ -107,4 +134,6 @@ Indonesia
 hobbies to develop:
 Building Hard Drives
 Building Railroads
+
+
 

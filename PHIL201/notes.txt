@@ -102,6 +102,22 @@ Foundationalism:
 			Jones's biological mother has no biological children
 			I hold my breath for 24 hours straight. 
 			one of the above ^^ is not logicaly possible, while the other is possible. 
-		Is there a test that I can perform right now that would prove that I am not asleep right now?
+Is there a test that I can perform right now that would prove that I am not asleep right now?
 			That is, we can fill in the folowing blank:
-				No dreams could have this feature: 
+				No dreams could have this feature:
+		Dream Argument
+			right now, I am unable to determine with absolute certainty that I am not asleep.
+
+			Therefore, a judgement is not self-evident if it depends upon my being aboslutely certain that I am not asleep when making it. 
+	Appearance vs. Reality
+	Different types of judgements;
+		sensory judgements: format: judgement, evidence
+			I judge that there really exists a hand, 
+			simply because it appears to my senses that there is a hand
+			
+			Not foundational because they are all based in sensory knowledge
+		Judgements from Testimony:
+			I judge that there is a quiz today, simply because the agenda says that there is a quiz today
+
+
+
