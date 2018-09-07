@@ -110,6 +110,50 @@ Make or buy decision:
 		the fixed cost of the make option is highter because of initial capital investment (equipment)
 		variable cost of buy option is higher because of supplier profits
 
+	Recent trends in supply chain management
+		Outsourccing
+		focusing of operations
+		supply base reductoin
+		long-term buyer supplier elationships
+		partnerships rather than adversarial trading
+	How many suppliers to use
+		Reasons to have a single supplier
+			to establish a relationship
+			less quality variability
+			lower cost
+			transportation economies
+			proprietary product or process
+			volume too small to split
+		reasons to have multiple suppliers
+			need capacity
+			spread risk of suppply interruption
+			create competition
+			information
+			dealing with special kinds of business
+	Total cost of ownership
+Successful partnerships
+	Achieve win-win
+	require a strategic perspective and such
+keys to succcessful partnerships
+	building trust
+	shared vision and objectives
+	personal relationships
+	mutual benefits and needs
+	commitment and top management support
+	Change Management
+	Information sharing and lines of communicaiton
+Challenges to managing relationships
+	sharing information and maintaining confidentiality
+	R & D and proprietary information
+	satisfying customer expectations
+	power in the chain
+Vendor managed inventories
+3rd party logistics services
+
+Purchasing: Centralized vs decentralized
+	Does headquarters get to make the decision or does the local office do it?
+
+
 
 Acronyms:
 TLA: Three letter acronym
@@ -118,7 +162,7 @@ ERP: enterprise resource planning
 JIT: Just in time
 TQM: Total quality managemtn
 BPR Business process reengineering
-
+3PL third-party logistics services
 
 Career tips:
 If you understand how someone is measured and rewarded, you will understand their behavior
@@ -134,6 +178,10 @@ Indonesia
 hobbies to develop:
 Building Hard Drives
 Building Railroads
+Take out a home loan
 
+Buzzwords:
+win-win
 
-
+Interesting courses to take:
+Courtship and marriage HDFS

@@ -71,4 +71,18 @@ Evaluating tradeoffs and benefit-cost-analysis
 	regulatory context
 	risk and CBA
 	cost-effectiveness
+Present value calculations
+	it's the same equation we've had in every 200+ finance/econ course
+	pv(x) = X/(1+r)^t
+Total value = Use Value + Option Value + Non-Use Value
+	use: value of directly using it
+	option: value of having it to consume later
+	non-use: value of its existence without ever using it
+The hedonic price approach
+	the level of environmental quality can be considered a qualitative characteristic of a differentiated market good
+	individuals have some freedom to choose thier consumption
+		through their selection of a private consumption bundle
+	assumes complementarity b/w the public good and the market good
+	The market for the differentiated privae good functions as a market for the public good or enviornmental quality
+	where choises are possible, people dont think it be like it is, but it do. 
 
