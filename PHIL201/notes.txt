@@ -120,4 +120,14 @@ Is there a test that I can perform right now that would prove that I am not asle
 			I judge that there is a quiz today, simply because the agenda says that there is a quiz today
 
 
+	If you are feeling saucy and precocious
+	Judgements about thoughts:
+		I judge that it realy appears to me that there is a hand, simply because it appears to me that ther ies a hand.
+	judgements from reasoning
+		I jduge that 1=1 simply because I reason that 1=1
+		I judge that other math simply because I reason that {other resoning steps}
+Evil Demon Argument
+	Right now is there any feature of my experience that hsows that it is not a demon-induced hallucination?
+		Right now, I am unable to determine with absolute certainty that my thoughts are not being manipulated by an evil demon
+		therefore, a judgement is not self-evident if it depends upon my being absolutely certain that my thoughts are not being manipulated by an evil demon when making the judgement
 
