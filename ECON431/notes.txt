@@ -76,6 +76,22 @@ Time value of money
 Presenvt value of an amount to be received at the end of "n" periods when the per period interest rate is I
 
 PV=(FV/(1+i)^n)
+quantity demanded of x:
+	inputs, effect on quantity
+	price,negative
+	price of othergoods, depends
+	population, positive
+
+supply Quantity of x:
+	inputs, effect on quantity
+	price of good, positive
+	Price of inputs, negative
+	wage, negative
+	taxes, negative
+	number of firms, positive
+	technology, positive
+Taxes and things.
+	
 
 
 Ladership quote of the day: 

@@ -85,4 +85,28 @@ The hedonic price approach
 	assumes complementarity b/w the public good and the market good
 	The market for the differentiated privae good functions as a market for the public good or enviornmental quality
 	where choises are possible, people dont think it be like it is, but it do. 
+Dynamic efficiency and sustainable development
+	2 period model
+		If resources aren't scarce, then static efficiency model is sufficient
+		if resources are scarce, you need ot see how allocation does NPV over time
+		Asusmptions:
+			fixed supply of certain depletable resource
+			consider two time periods only
+			demand is constant:
+				p=i-0.4q
+				mc = $2
+		Results:
+			you would operate at p = mc for both periods if you could, but if you use up too much, you can only do it in the first period.
+		Dynamic Efficiency: rule of thum
+			allocation that maximizes net PV will be such that hte present value of marginal net benefits are qual across time periods
+			If the marginal value you place on having a little more resource today is higher than having a little more tomorow, then consume more today.
+			If the marginal value you place on having a little more resource tomrorrow is higher than having more today then consume more tomorrow. 
+
+		Difference between what you would have payed and what the marginal cost is the marginal user cost. 
+		MUC_t+1 = MUCt * (1+r)
+		marginal user cost is opportunity cost with scarcity
+	
+		yo fam. let's get rid of the marginal user cost. 
+		
+	
 

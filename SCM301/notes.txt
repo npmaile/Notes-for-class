@@ -153,6 +153,96 @@ Vendor managed inventories
 Purchasing: Centralized vs decentralized
 	Does headquarters get to make the decision or does the local office do it?
 
+Forecasting: The forecast is always wrong
+##extra credit##	4 points to tattoo "the forecast is always wrong" anywhere visible in busines clothing
+Demand forecasting (guessing)
+	estimate of future demand
+	underlying basis of all business decisions
+		production
+		inventory
+		personnel
+		facilities
+	Goal is to minimize forecast error
+	math =/= Business
+	
+	Independent demand: finished goods
+	dependent demand: raw materials, component parts, sub assemblies, etc.
+
+	What can a firm do to manage an independent demand:
+		Active role to influence demand
+			pricing strategies
+			advertising
+		passive role and simply respond to demand
+			adjusting capacity
+	forecasting techniques
+		qualitative: based on opinion and intuition
+			generally used when data are limited, unavailable, or not currently relevant
+		quantitative: uses mathematical models and historical data
+			time series analysis
+			causal relationships
+			simulation
+	Why?
+		Average - average demand for a period of time
+		trend - increasing or decreasing
+		cyclical variations - wavelike movements that are longer than a year, usually due to the busines cycle
+		seasonal element - peaks and valeys that repeat over a consistent interval
+		random variation - due to unexpected or unpredictable events
+	qualitative methods
+		data unavailable, very limited, or not relevant
+
+		jury of executive opinion
+		sales force composite "how many do you think you're going to sell"
+		customer surveys
+		delphi method
+			choose experts
+			get forecasts from everyone
+			summarize the results and redistribute them with new questions
+			summarize again, refining forecasts and develop new quesitiosn
+			rinse and repeat.
+
+		Time series analysis
+			take past history and use it to predict the future
+			pick models based on 
+				time horizon to forecast
+				data availability
+				accuracy required
+				size of forecasting budget
+				availability of qualitfied personnel
+			Naive forecast
+				take the previous period data and use the past period
+	In this chapter we cover 3 basic methods:
+		simple moving aveerage
+			The average of however many periods in the past you want to look at. 
+		weighted moving average
+			same thing as above, but weigh the ones closer to now higher than the others. 
+		exponential smoothing
+
+		F_t+1 = \alphaA_t+(1-\alpha)F_t
+		where f_t = forecast for period t
+		f_t+1 = Forecast for period t+1
+		A_t = Actual demand for period t
+		\alpha = A smoothing constant
+
+		or equivalently
+		F_t+1 = F_t + \alpha(A_t - F_t)
+		
+		forecast tomorrow by taking today's forecast, and adjusting it by some amount (actual sales - forecast from today)*\alpha aka some constant
+		
+	forecast error
+		What is the goal of a good forecast?
+			minimize forecast error
+			we need to measure the error in the forecast
+			Consistency of error is also helpful
+			error: error = actual-forecasted
+			Running sum of forecast error
+				idealy 0
+		mean square error;
+			take the average of the errors squared.
+			it penalizes the frickfrack out of large errors
+
+LOOK AT YOUR DATA
+
+		
 
 
 Acronyms:
@@ -163,10 +253,21 @@ JIT: Just in time
 TQM: Total quality managemtn
 BPR Business process reengineering
 3PL third-party logistics services
+CLM Career limiting manouver
+CTM Career terminating manouver
+RSFE: Running Sum of Forecast Error
+MAD: Mean absolute deviation
+MAPE: Mean absolute percentage error
 
 Career tips:
 If you understand how someone is measured and rewarded, you will understand their behavior
 Don't kill your customers
+Don't get drunk before work
+Don't ask for special chairs after the strategic 
+To always have a job:
+	sell something
+	predict the future with 100% accuracy (might be difficult)
+Show up 5 minutes early to meetings with your boss
 
 Prof's life pro tips:
 get a hobby

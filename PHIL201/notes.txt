@@ -131,3 +131,42 @@ Evil Demon Argument
 		Right now, I am unable to determine with absolute certainty that my thoughts are not being manipulated by an evil demon
 		therefore, a judgement is not self-evident if it depends upon my being absolutely certain that my thoughts are not being manipulated by an evil demon when making the judgement
 
+	a priori knowledge
+		can be known simply by reasoning about the concepts involved in the judgment
+	a posteriori knowledge
+		cannot be known simply by reasoning about the concepts involved in the judgement; the knowledge requires experience or observation.
+
+	Argument brought up by the evil demon argument:
+		the evil demon argument reveals that every a posteriori judgement is not self-evident
+			counterexample: "I am thining"
+		point: the evil demon argument does not neatly separate a priori and a posteriori judgements
+
+		the evil demon argument reveals thate every a priori judgement may be self-evident
+			counterexample "complex reasoning"
+Cogito (ergo sum)
+	I am thinking therefore I exist
+Cogito
+	why must this be in the first person?
+	What is so special about thinking
+	when do I know myself to exist
+	Why "i am thinking now" not "I often think"
+	Couldn't i be a figment of the demon's imagination?
+vocab: mental-physical dualism
+	Mind: the thing that thinks
+	brain: the physical object located in the skull
+	Mental-physical dualism
+		the view that there exist two mutually exclusive categories of things: mental things and physical things
+	materialism
+		the view that everything exisis is physical (is a body or physical property of a body)
+	immaterialism
+		The view that everything that exists is mental
+	
+	How can something that is physical cause changes to something that is thinking and vice versa?
+		descartes solution
+			a person's mind and body interact at the base of the skull at the pineal gland
+	The knowledge argument
+		1. I know that I exist (cogito)
+		2. I do not know that any bodies exit (dream argument, evil demon argument)
+		3. Indiscernibility of Identicals (if one thing has a property that another thing lacks, then they aren't the same thing)
+		therefore I am not a bodily thing. (I am a mind.)
+
