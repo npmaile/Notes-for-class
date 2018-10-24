@@ -242,7 +242,226 @@ Demand forecasting (guessing)
 
 LOOK AT YOUR DATA
 
+Tracking signal
+	take the running sum of forecast error. divide it by the MAD
+	ts=rsfe/mad
+	measures bias
+	should be between 4 and -4 and not have a pattern
+
+
+
+
+AFTER THE FORECAST(which is wrong):
+forecast => Resource Plan
+how much do we need? => How much should we make?
+Operations planning overview
+Long-range planning
+	Greater than one year planning horizon
+	usually with yearly increments
+intermediate-range planning
+	six to eighteen months
+	usually with monthly or quarterly increments
+Short range planning
+	one dat to less than six months
+	usually with weekly increments
+
+aggregate planning
+Goal: Specify the optimal combination of 
+	production rate
+	workforce level
+	inventory on hand
+Product group or broad category -- family aggregation
+Aggregate scheduling Goals
+	meet demand
+	use capacity efficiently
+key strategies for meeting demand
+chase-match production to customer order rate by hiring and laying off employees
+level-stable workforce with constant output, inventory and backlogs absorb fluctuation s in demand
+combination of the two - stable workforce, variable hours - vary output through overtime or flexible schedules
+	hybrid
+Costs relevant to aggregate planning
+	direct labor
+	changing the production rate
+	inventory holding
+	backordering
+Aggregate planning
+	forecasted Demand
+	Beginning Inventory - negative indicates backlog
+	net requirements
+	production choice
+
+Why material requirements planning?
+	Planned order release
+Material requirements palnning defined
+	materials requirements planning is the logic for determining the number of parts, components, and materias needed to produce a product
+
+deriving EOQ = sqrt(2RS/kC)
+when you do the derivative of the total cost of Q, you'll end oup with a two in there somewhere. Don't forget it. 
+
+What inventory level should be maintained?
+	if both demand and lead time are constant
+	Reorder point, ROP = dbar x LT
+		dbar = Average Demand
+		LT = Lead Time
+Gotta get some safety stock (SS)
+use statistics to make sure your safety stock is good
+
+	sigma_d is the standard deviation of demand
+	sigma_LT is the standard deviation of lead time
+	z is the number of standard deviations for a specified service probability
+
+ROP = dbar X LTbar + SS
+SS=z*sqrt((sigma^2_LT * d^-2)+(sigma^2_d*LTbar))
+
+When should orders be placed/
+continuous review systme
+	fixed order quantity model
+		event triggered
+	allows for random demand
+	stock position is monitored continuously
+Periodic Review System
+	Fixed-time period model
+		time triggered
+	assume demand is random
+	order up to the target level at a specified time
+Two bin system
+	pull from one bin
+		when it is empty order more and use the other bin
+		ad infinitum
+How much effort goes to inventory management?
+	ABC Method of inventory analysis
+		determine annual $ usage
+		rank the items according to anual $ usage
+	
+Evaluating Inventory Management
+	Inventoy investment
+		firms should diligently measure inventory investment to ensure that it does not adversely affect competitiveness.
+		Measures include
+			absolute value of inventory (from balance sheet)
+			inventory turnover or turnover ration - how many times inventory turns in an accounting period
+
+			inventory Turnover ration = cost of revenue/ average inventory = cost of goods sold/ average aggregate inventory level
+Distribution Center size
+	typically large is 2million square feet
+	
+Basic Warehouse Operations
+	Movement
+		receiving
+		put away
+		order picking
+		shipping
+	storage
+		stock location
+		warehouse management system (WMS)
+	Good space Utilization "Cube"
+Warehouse Productivity metrics
+	pounds or units per day
+	employees per pound moved
+	pounds unloaded, loaded, or picked per hour
+	orders filled correctly
+	productivity ration = (pounds/day)/(labour hours/day)
+	Trhoughput = material moved through it. 
+Overall trends in Warehousing
+	expansion beyond traditional services
+		Value-added packaging or manufacturing
+	Third party providers
+		new and growing industry
+		emphasis on dedicated/customized services
+	Reduced Labor intensity--dark warehouse--robots are doing all the work, so who needs people
+	Integrate warehouse information systems into logistics information systems
+	Emphasis on "flexibility" to changing market conditions
+Transportation
+	in addition to inventory management and warehousing, ligistics is necessary to:
+		Move goods from suppliers to buyers
+		Move finished goods to the customer
+	Products have little value to the customer until they are moved to the costomer's point of consumption
+		Time utility - products are delivered at the right time. 
+		Place utility - products are delivered to the desired location
+	The objective of transportation management
+		maximize value to firm through negotiation to provdie profit contribution
+		make sure service is provided effectively
+		satisfy customer needs
+	Interface with supply chain
+		transportation costs are affected by facility locations
+		inventory requirements are invludenced by mode
+		packaging requirements are dictated by mode
+		materials handling equipment and loading dock design are dictated by mode
+		customer service goals influence carrier choice
+		strategic use of order-management technology can lead to maximium consolidation of loads to reduce transport costs
+	Forms of transportation
+		Common carriers
+			offer shipping between locations at published rates without descrimination
+		contract carriers
+		exempt carriers
+			exempt from regulation of services and rates if transporting certain products
+		Private carrier
+			not subject to economic regulation
+			typically transports goods for the company owning the carrier
+	Modes of transportation
+		trucks
+			small-ish vehicle size compared to other stuff
+			Relatively high cost compared to rail and water, trade-off is faster service
+			they go anywhere
+			less than truckload and truck load carriers
+			parcel carriers
+				ups fedex usps
+			truckload (TL) shipments are typically 10-42000 pounds
+			500,000 registered trucking firms
+		Trains
+			Small number of carriers relative to trucking industry
+			about 500 total
+				class 1 railroads: 7 firms; 100,000 miles
+				Regional Railroads 30 firms, 15000 miles
+				shortline railroads: 300 firms, 20000 miles
+				terminal railroads: 205 firms, 6000 miles
+			long haul, large volume system
+			accessibility can be a problem
+			rail is about 40% of ton-miles but 10% of revenue
+			very cheap
+		air
+			fast expensive
+		domestic water
+			freezes
+		pipelines
+			
+			not suitable for general transportation
+			high fixed cost
+Transportation management activities and strategy
+	negotiate rates and product classifications
+	select carriers and routes
+	contract for rates, service, and volume
+	Freight/shipment consolidation - build density and volume to get lower prices from carriers
+	Monitor service: not each load, but reviewing carrier performance
+	optimize stuff
+Carrier Reduction Strategy
+	Advantages
+		help carriers build lane density and achieve efficiencies
+		carriers gain greater understanding of shippers' operations, proceses, and needs
+		easier to manage fewer relationships
+		reduced transaction costs
+	Disadvantages
+		risk associated with having too much business in hands of few carriers
+		complacency may set in
+Logistics for global markets
+	it's more difficult when you cross borders
+		ocean shipping
 		
+	Logistics intermediaries
+		customs brokers
+			deal with documentation mostly
+		International or Foreign Freight Forwarders
+		Trading companies
+			network buyers and sellers from different countries
+			often take title to the goods
+		Non-Vessel Operating Common Carriers
+Foreign Trade Zones (tax dodge)
+	Goods enter without customs formalities, duty or bond.
+	Goods can be stored indefinitely and/or re-exported
+	used for manufacturing
+		import goods and components, asemble or manufacture, and ship o another country or then import to US
+		importer pays duty only when the product reaches it's final destination
+6 sigma tldr: Don't make a mistake
+
 
 
 Acronyms:
@@ -258,6 +477,7 @@ CTM Career terminating manouver
 RSFE: Running Sum of Forecast Error
 MAD: Mean absolute deviation
 MAPE: Mean absolute percentage error
+CPFR: Collaborative Planning, Forecasting, and Replenishment
 
 Career tips:
 If you understand how someone is measured and rewarded, you will understand their behavior
@@ -268,10 +488,16 @@ To always have a job:
 	sell something
 	predict the future with 100% accuracy (might be difficult)
 Show up 5 minutes early to meetings with your boss
+Most places do business between Monday and Friday
 
 Prof's life pro tips:
+
 get a hobby
 When you get married to another person, one of you will think you've married a slob and the other will think they've married the most anal retentive person in the universe
+if you need an air ambulance, it's going to be expensive
+don't piss off your spouse
+Don't run out of toilet paper
+If I ever have kids, use two bin system for diapers
 
 places prof says to travel to:
 Indonesia
@@ -280,9 +506,31 @@ hobbies to develop:
 Building Hard Drives
 Building Railroads
 Take out a home loan
+build a factory
+
 
 Buzzwords:
 win-win
 
 Interesting courses to take:
 Courtship and marriage HDFS
+
+notes for instructor evaluation:
+Good that he doesn't wear shorts
+bonus minutes friday of the week 9-20
+this class is so good people voluntarily showed up even though they weren't registered
+
+Presentation tips
+-don't use animations
+-don't use so many words
+
+shit to email Frank about:
+if any company uses a Q system for continuous review of inventory
+
+Evaluate wether or not you will make profit before you accept an order
+
+Movies to watch:
+Monty python and hte holy grail
+
+things to do before you die
+ragbrai

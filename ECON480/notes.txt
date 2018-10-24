@@ -107,6 +107,109 @@ Dynamic efficiency and sustainable development
 		marginal user cost is opportunity cost with scarcity
 	
 		yo fam. let's get rid of the marginal user cost. 
-		
+New chapter:
+Classifying pollutants
+	temporal dimension
+		stock pollutant -pollutnat that accumulates in the environment
+		flow pollutant - pollutant that dissipates quickly in the environment
+	spacial dimension
+		local pollutant - pollutant where damages are tied to where they are emitted
+		global pollutant - pollutant where damages are not tied to where they are emitted.
+
+Abatement vs pollution
+	abatement is control of pollution
+	pollution is the emission of pollution
 	
+	abatement framework
+	Objective: maximize the netbenefits of abatement
+	max NB=Benefits(abatement)-Costs(abatement)
+	First order condition-> MB(A)=MC(A)
+	
+	pollution framework
+	objective: minimize the totl costs of pollution to society
+	minimize X where TC=TotalDamages(x)+TotalAbatementCosts(x)
+	FOC: MD(X)=MAC(X)
+
+Air pollution
+	efficiency vs cost-effectiveness
+	efficient level of pollution
+		maximizes net benefits of abatement
+		minimizes total costs of pollution
+	cost-effectiveness
+		minimizes abatement costs subject to some constraint on pollution
+
+Command and control approach
+	one approach to polution controll
+	dictate the control of pollution through technology standards or individual emissions standards
+		1. do it witch technology
+			specify certain abatement technology
+			draw it with an isoquant
+				how uch capitol and labor is needed to produce quantity of abatement?
+				put labor on the y axis and capitol on the x axis
+				basically you can use labor or capitol to cause abatement. 
+				the government says "use this technology" which will lock you into acertain level on the isoquant
+
+				total cost of abatement = wL( wage rate * labor )+ rK(rental rate * kapitol)
+				L= totalcost/wage - (r/wage)*K
+			specify certain quantity of allowed pollution
+Mrket based instruments
+	quantity instruments(Cap 7 Trade)
+		cap the total amount of pollution and allow firms to trade
+		cost-effective instrument
+		efficiency depends on cap
+	price instrument (tax on pollution)
+		tax pollution per unit produced
+		cost-effective
+		efficiency depends on level of ta.
+
+	Clean air act
+		passed in 1970, revised in 1977 and 1990
+		Regulates air pollution from stationary and mobile sources
+		authorized EPA to establish National Ambient Air Quality Standards
+		technology standards for stationary sources
+efficient level is the level that maximizes the net benefits of abatement or minimize the total costs of polluiton
+
+miniimize the sum of abatement costs as a function of emmissions + the sum from i=1 to n of the damages attributable for every firm i = 0
+marginal abatement cots equal to marginal damages
+
+cap and trade across spacial differences areas and stuff
+	trade based on the marginal damages 
+	gotta make a differentiated trading framework
+Gross external damages (GED)
+	this is like gdp but for pollution
+Toxic pollution
+	usually stock pollutants that stay in the environment in the long term
+	Local pollutants where the damages are tied where they are emitted
+uncertainty in damages
+	how should we deal with uncertainty in marginal damages?
+	If a pollutant could be very harmful or not harmful at all, how should we think aabout managing it?
+Uncertainty in marginal damages vs. Marginal Abatement costs
+	are there circumstances in whihc price instruments (taxes) are preferred over quantity instruments (cap and trade)?
+	Rule of thumb
+		when there exists uncertainty in marginal abatement costs, then instrument should mimic marginal damage function
+		In other words, a tax is appropriate if marginal damages are flat. A cap and trade program is preferred if marginal damages are steep.
+
+Stock Pollutants
+	don't decay very easily. 
+	stock in t+1 equals stock at t plus emissions of t+1 minus decay
+	S_t+1=S_t + E_t+1 - \alphaS_t
+	S_t+1-S_t can be indicated as S dot
+
+	Maximize Benefits-detriments of the stock 
+
+
+
+	Current Value Hamiltonian
+
+	H_t = Benefits of polution - detriments of stock pollutant at time + \mu_t*(E_t-\alpha*S_t)
+
+	The marginal abatement costs need to be equal to the present value of marginal damages
+
+Responding to climate Change
+Mitigation
+	reducing emmissions
+Adaptation
+	lessening the impact of climate change
+Geo-engineering
+	Offset climate effects through engineering
 

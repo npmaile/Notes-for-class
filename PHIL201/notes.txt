@@ -169,4 +169,326 @@ vocab: mental-physical dualism
 		2. I do not know that any bodies exit (dream argument, evil demon argument)
 		3. Indiscernibility of Identicals (if one thing has a property that another thing lacks, then they aren't the same thing)
 		therefore I am not a bodily thing. (I am a mind.)
+Why can't Descartes use "physical" and "not physical" to contrast bodies and minds
+	or use "thinking and "not thinking"
+		that's what he's trying to do to come up with it, so he can't use that to prove it. 
 
+		1. I do not know whether bodies exist
+		2. I know that bodies to not exist
+			different sentences. 
+			ignorance doesn't disprove the existence of things
+
+		I hat the ames murderer
+		I do not hate my neighbor
+		indiscernibility of identicals
+			therefore the ames serial murderer is not my neighbor
+
+		objection 1: the knowledge argument does not establish descarte's intended conclusion
+
+		the argument does not prove that the names "ames serial murderer' and 'my neighbor' do not refer to the same thing
+
+		analogously:
+		the knowledge argument does not prove that "mind" refers to something that is not "body"
+
+		objection 2: Misapplication of principle
+			the indiscernibility of identicals requires properties that objects have on their own, not properties that depend on their relationship to something else (intrinsic vs extrinsic)
+
+		Descarte's wax example
+		senses provide particular ideas from actual sensations
+		imagination combines together articular ideas form the senses to form other particular ideas
+		intellect is able to conceive of generalities without being constrained by particular features
+
+	solipsism = the vew ithat only I exist
+	solipsism of righ tnow = the veiew that only I exist for only as longa st this moment exists
+The cogito proves that I exist right now, because I am thinking right now
+the cogito does not prove that the current I is the same as pst I's 
+if D cannont prove that I am the same at different times, then i exist only right now
+but he isn't a solipsist. he doesn't know if other things exist, not that he knows other things don't exist
+The act of making a judgement requires pulling different ideas together.
+one and the same mind first possesses the different ideas and then brings them together into a judgement
+so minds are capable of existing longer than their particular ideas
+
+
+Point of D's Wax example
+senses provide particular dieas fro mactual sensations
+imagination combines together particular idesas ffrom the senses to form other particular ideas
+but we do have general ideas too. From where?intellect is able to conceive of generalities without being constrained by particular features
+
+Acquired ideas: Ideas that are obtained form a source outside of my mind
+invented ideas: ideas that I ahve created by combining ideas
+Innate ideas Ideas that my mind has at its creation
+
+continuum between more reality and less reality with infinite things on the side of more reality, finite things in the middle, and thoughts and physical properties on the side of less reality. 
+
+Descarte's proof of god's existence
+
+I have a clear and distinct idea of an absolutely perfect being
+I cannot be the cause of that idea because the idea contians more reality than I or non-gods do. 
+Therefore this absolutely perfect being exists and causes my ideea of it 
+
+Perfection= lacking nothing; self-sufficient. 
+
+Objection to premise one (i have a clear and distinct idea of an absolutely perfect being)
+How can a finite mind have a clear and distinct idea of something infinite?
+
+Descarte's reply: the idea is adequate enough to grasp it that it represents more than something finite
+
+objection: Then it's not a clear and distinct idea
+
+Objection to premise 2 
+I could have invented the idea of god from combining together various augmented ideas:
+	wisdom, power, goodness, etc
+		descartes: replies
+			this invented idea would fail to represent god's simplicity since it is composed of many different ideas
+			We can create an idea of indefinitude but that is not infinity
+	Why God is not a deceiver
+	1. God does not lack anything
+	2. A being deceives or manipulates when it lacks something
+	therfore, god doesn't deceive
+
+	Why does descartes need to show that God does not deceive
+
+============THE NEXT SECTION==========
+two characters
+	sam miller - chaplain
+	gretchen weirob - philosopher
+	Dave Cohen - student
+W's Challenge = provide an account ofpersonal identity that makes survival possible
+
+Personal Identity = the criteria that must be met in order for something to count as one and the same person at different times.
+survival = one and the same person continues to have experiences after bodily death
+
+-why would being remembered by others after bodily death guarantee survival?
+
+possible = conceivable 
+=/= reasonable probablility
+=/= consistent witht known laws of science
+=/= technologically feasible
+
+Numerical identity = one and the same thing
+qualitative identity = the same kind of thing
+
+is the pair numerically identical:
+
+(1) Dylan Sprouse and
+(2) Cole Sprouse
+NO there's two of them
+
+(1) Dylan Sprouse and
+(2) Cole Sprouse's twin brother
+Yes they are two names for the same thing
+
+
+1 the criteria for personal identity are logically inconsistent
+	-for instance, the criteria might indicat that different people are the same
+	-or the criteria might be contradictory
+2. the criteria for personal identity are not ocnsistent with tht epossibility of survival
+	-the criteria won't help miller meet weirob's challenge. 
+
+Miller's Theory o fPersonal Identity(First Night):
+	to be one and the same person at different times is to have the same soul
+
+1. we know facts about the identity of persons at different times.
+2. we do not know facts about the idenity of souls at different times
+3. indiscernibility of identicals
+therefore, person =/= soul
+
+Freaky friday
+	Is the person with the motherly thoughts before the switch the same as the person with motherly body after?
+	would miller say that in the freaky friday scenario that the person has switched bodies?
+		prolly not
+	Would Weirob say that in the freaky friday scenario, the person has switched bodies?
+		probably, but that begs the question
+
+	Beg the question to assume the conclusion as evidence for the conclusion
+
+Weirob's Overall objection
+	1. we know the identity of persons at different times
+	2. We do not know the identity of souls at different times
+	3. Indiscernibility of identicals
+	therefore, person is not soul
+
+Weirob's overall objection
+	M's reply to W's Overall Objection:
+		we do know the identity of souls
+		i) Sameness of body is evidence for sameness of soul
+			isn't i just weirob's view?
+
+if i is known, it is either known a priori or known a posteriori
+2. M does not know i a priori:
+	there is no conceptual connection between having the same body and having the same soul
+3. M does not know a posteriori
+	we never experience the conjnctino of bodies and souls
+
+Miller's overall objection
+	1. we know the identity of persons at different times.
+	2. we do not know the identity of souls at different times
+	3. indiscernibility of identicals
+	therefroe, persons are not souls
+
+Soul flow:
+	A stream of different souls flows throught he same body giving rise to the appearance of a continuous personality
+		cartesian epistemic principle
+			knowing something requires that it be impossible to be mistaken about it
+Weirob's soul flow objection
+	1. cartesian epistemic principle
+	2. if soul flow were to happen, miller owuld be mistaken to judge (from continuity of personality) that there is one same soul
+	therefore milller does not know that continutiy of personality is evidence for sameness of soul. 
+
+Weirob's theory of personal identity:
+	to be the same pers is to have the same body as determined by a continuous bodily appearance
+body flow:
+	a stream of different bodies successively replace each other in continuous places and times giving rise to a continuous bodily appearance
+our body flow objection against weirob
+	1. the cartesian epistemec principle
+	2. if body flow were to happen, weirob would be mistaken to judge that there is one and the same body
+	therefore, weirob does not know that continuity of bodily appearance is evidence for numerical sameness of body
+dilemma for weirob's overall objection:
+	either both flow arguments work or they both fail
+
+if soul flow and body flow both work,
+	miller and weirob do not know the identity of numerical identity of bodies or souls over time
+		premise #1 of weirob's overlal objection is wrong
+if soul flow and body flow both fail
+	miller and weirob do know the numerial identity of bodies and souls over time
+		premise #3 of weirob's overall objection is wrong
+Epistemological or Metaphysical claim?
+	Metaphysical-miller: to be the same person is to have the same soul
+	methaphysical-weirob:To be he same person is to have the same body
+	epistemological-weirob: I know th identities of persons
+	metaphysical-Miller: on earth, a person has both a body and a soul
+	epistomological-Weirob: Miller doesn't know a priori that somethging or another
+	epistimology-Miller: Continuity of personality is evidence for sameness of soul
+
+Personal Identity = the criteria that must be met in order for something to be the numerically same person at different times
+=what constitutes being the numerically same person
+
+Wierob's overall objection asked Miller to offer criteria to use to know 9decide, tell, tetermine) whether something is the numerically the same person at different times
+
+=how do we Know whether it is the numerically same person?
+
+something something baseball
+	different aspects of the game can change, but the baseball game is still the same
+	the sequence of plays that follow the rules of basebal constitute a baseball game
+M's Four-Dimensional View of Persons:
+	a person is a collection of all and only the relevant person-stages
+	a person-stage is a stretch of consciousness that exists at a particular time.
+	
+	One person-stage is not numerically the same as another even if the content of the thought is the same
+
+	How do two person-stages differ from each other?
+	what about the soul?
+
+M's 4d view:
+	two consecutive person-stages are part of the same person:
+		the later person-stage inherits some memory from the earlier person-stage
+
+		Why not require that every memory is inherited?
+		Must it be the same memory that is inherited each time?
+		
+		What if, at some later point in life, I do not remember an event from my childhoot?
+		Am I no longer the same person?
+		What problems can you think of that memory raises?
+
+Reductio ad absurdum
+	a valid argument form that begins with an assumption that leads to a contradiciton or absurdity. this contradiciton shows that the initial assumption was false
+
+	To object to a reduction:
+		show that one or more of the non-assumption premises is false
+		show that the contradiction or absurdity is not really contradictory or absurd
+Weirob's 1st duplication argument
+	1. Suppose that M's 4d theory of personal identity and survival are correct
+	2. if God can create heavenly person-stages once, god can do it more than once simultaneously
+	3. if that were to happen, each simultaneous person-stage meets M's critera for numerically the same person
+	4. but there are multiple person-stages existing simultaneously, not just one. 
+
+	Therefore there is an inconsistency in M's 4d theory of personal identity and survival
+C's Rep. Additional criterion: "no competition"
+	numerically the same person requires that there be no simultaneous competing person-stages
+
+	if more than one simultaneous person-stage gets "yes" to all three questions:
+		then none of the simultaneous person-stages counts as part of the person
+
+	if Just one Person-stage at a time gets "yes" to all three questions:
+		then it counts as part of the person
+	ad hoc ("to this") = improvised to handle this specific problem, not because of some general principle
+
+Suppose that M and C's theory is right.
+Duplication scenario:
+Suppose that God creates a new eartyly person-stage now (F) in addition to the naturally occuring one (G) and transfers some actual memory to it from W's preceding person-stage (H).
+
+The "Fetus Problem"
+	1. According to psychological theories of personal identity, in order to be the numerically same person, there must be continuity of psychological states.
+	2. Fetuses' brains are insufficiently developed to supportpsychological states.
+	3. Therefore, according to psychological theories of personal identity, it is false to say that I was once a fetus
+	4. But I was once a fetus.
+	Therefore, psychological theories of personal identity are wrong
+A 4D theory for Weirob:
+	the numerically same person is
+		a collection of all and only those bodily stagees that are connected together continuously in space and time
+
+Julia North = brain donor
+Mary Frances Beaudine = body donor
+	according to miller: who survives the operation? Julia North
+	are the memories of the survivor actual memories?
+
+	according to weirob: who survives the operation? Mary Frances Beaudine
+	are the memories of the usrvivor actual memories?
+
+	Objection to weirob's vies: makes actual memory depend on factors extrinsic to the memories or the brain
+
+	Weirob's view calls this a "brain transplant"
+
+	this could also be described as a body transplant
+
+C's new view: conventionalism
+
+conventionalism = 
+	the view that there is no deep fact about whether someoene is the numerically same person; it's just a social convention
+
+Weirob's objection aspirin example
+	1. suppose that conventionalism is correct
+	2. According to conventionalism, the identity of the person with the post-surgery headache would change if the convention changes
+	3. there is an unchanging fact about who has the post-surgery headache
+	Therefore, conventionalism is not correct
+
+M and C urge weirob to have her brain implanted into someone else's body
+M and C view: actual memory is had by the numerically same original brain that was at the remembered event
+
+M and C's claimed advantages for theeir psychological theory of personal identity
+	1. makes sense of my correct judgement of my own identity without knowledge of my body
+	2. psychological criteria for identiy pick out what is valuable about a person.
+
+M and C view: actual memory is had by the numerically same original brain that was at the remembered event
+M and C's claimed advantages for their psychological theory of personal identity
+	1. makes sense of my correct judgement of my own identity without knowledge of my body
+	2. Psychological criteria for identity picks out what is valuable about a person
+	
+	if they create a duplicate brain, they'll think they're the og person
+A 4D theory for Weirob:
+the numerically same person is
+	a collection of all and only those bodily stages that are connected together continuously in space and time
+A materialist teory of survival
+	Just before the time of bodily death, God quickly removes the body (preservingin ti ino rder to revive at some later time in heaven) and replaces it with an exact duplicate on earth
+
+	Is this possible?
+	For Weirob, does the duplicate body belong to the numerically same person?
+	For Weirob, does the revivedd body belogng to the numerically same person?
+	
+	Does the preserved body still belong to the numerically same person even while the body has no conscious thoughts?
+The views we have considered:
+	Miller's soul view
+	Miller's 4D psychological view:
+		some actual memory connects person-stages
+		Cohen's 'no competition' clause
+		the numerically same brain is required
+	Weirob's 4D bodily view
+	Cohen's conventionalism
+which views require that souls exist?
+... that numerically the same brain exists?
+
+Which views hold that identity is a matter of degree
+Which views hold that identity is all or nothing
+
+which views might recommend teleportation as a speedy way to travel?(do we need more information?)
+Which views might recommend cloning as a way to extend one's own lifetime? does it make a difference if the clone exists later or at the same time as the origininal

@@ -91,7 +91,25 @@ supply Quantity of x:
 	number of firms, positive
 	technology, positive
 Taxes and things.
-	
+
+market interventions:
+	price ceilings
+	price floors
+	they have to do something to be effective
+	they need to be below or above the equilibrium proce before they matter
+Elasticity = Unit free maeasure of the responsiveness of demand given a change in a variable (usually price)
+
+Hicks Marshall 
+	1. The greater the share of your purse that a project is, the more elastic it is due to how much you care
+	2. the time horizon of purchase
+	3. number of substitutes
+marginal rate of substitution = (-MUx/MUy) 
+U = x^\alpha y^\beta
+mux = \alpha X^(\alpha-1)y^\beta
+MRS = \alpha/\beta * Y/X
+
+M = Px*X+Py*yy
+it's how much of each good you can afford given income M
 
 
 Ladership quote of the day: 
