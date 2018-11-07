@@ -213,3 +213,38 @@ Adaptation
 Geo-engineering
 	Offset climate effects through engineering
 
+Two period model for depletable resources again
+	same as a few eeks ago
+
+	marginal user cost rises over time at the rate of the discount causing efficient prices to rise oer time and thus reflecting scarcity
+	a higher discount rate will favor the present.
+
+N period model
+
+
+with a renewable resource, depending on how it shakes out, you will likely use up all the nonrenewable until the renewable is less expensive and you'll use that
+Optimal extraction path is how quantity consumed changes over time
+optimal price path is how price changes over time
+
+what happens when we have another depletable resource as a substtute?
+	you'll use the cheaper one until the more expensive one is cheaper, then you'll use that one
+
+What about increasing marginal extraction costs?
+	you consume until you pay the same as a renewable resource
+
+Water as a depletable resource
+	
+	with depletable resources with externalities, the price rises directly witht he social costs of the externality. 
+	You will exhaust the resource at a later date than without the externality
+
+	externality surpresses demand and extends the consumption path if there is no substitute
+
+
+
+	with a renewable substitute,
+
+	the marginal extraction cost will be rising and nearing the price path until it reaches the price of the renewable substitute, at which point you will switch to the renewable resource. 
+	instead of a renewable resouce, you can have nothing and just stop using it once the price is so high you don't want it anymore
+	with an externality:
+		the externality costs add to the marginal extraction costs. This increases the price path and you will go to using the renewable resource sooner
+

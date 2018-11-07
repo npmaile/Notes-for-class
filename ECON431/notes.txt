@@ -111,6 +111,67 @@ MRS = \alpha/\beta * Y/X
 M = Px*X+Py*yy
 it's how much of each good you can afford given income M
 
+production functions on the short run
+function of kapital and labor = q = total product
+grab the production functoin
+th derivative with respect to L is the marginal product of labor
+the average product of labor is Q/L
+
+Marginal product of labor is 0 at the top of the curve of output per labor
+when marginal product of labor is equal to average product of labor, the average product is highest
+this hapens after the inflection point of the production function when marginal product is highest
+
+Marginal Value Product (VMPL) = additional output of one more worker * the price of output aka the benefit of hiring a worker
+
+if additional benefits are greater than the costs, then adding the control variable is a good move. That means hire a worker if they make you more then they cost you
+hire until the value of marginal product is equal to the wage rate
+
+Isoquant
+	Qstar = functionof(kapital and labor)
+
+	marginal rate of tech. substitution
+	MRTS = Marginal producto of labor/ marginal product of kapital
+
+	firm's problem is to minimize cost subject to Producing level of output Q*
+	Minimiz cost subject to Q*
+	Cost = wage*Labor+Kaptial rate * Kapital
+
+	RK/r = C/r-WL/r
+	K=C/r-(W/R)*L
+Decision
+MPL*PQ=W
+MPK*PQ=r
+PQ=W/MPL
+1/PQ=MPL/W
+1/PQ=MPK/R
+MPL/W=MPK/R
+in the long run decision rule
+
+Returns to scale
+Q=aK+bL = 4K + 5L
+if K and L are doubled, Q is doubled
+constant returns to scale
+
+Q=4K+5L+3KL
+if k and l are doubled Q is more than doubled, increasing returns to scale
+
+Q=5K^1/2*L^1/2
+if k and l are doubled Q is doubled constant returns to scale
+
+Q=7kL^1/2
+Q1 = 2^3/2 Qo Increasing returns to scale
+
+Qo=8K^1/3*L^1/2
+Q=2^1/3+1/2
+decreasing Returns to scale
+
+
+given cobb douglas Q=Ak^alpha*L^beta
+Increasing returns to scale if alpha plus beta > 1
+constant returns to scale if alpha plus beta = 1
+decreasing returns to scale if alpha plus beta < 1
+
+all cost functions can be written as a function of output not inputs
 
 Ladership quote of the day: 
-life is connected. Where you are today is a result of decisions you made in the past and where you will be tomorow in every area of your life, is connected to what you do today and what you do 
+life is connected. Where you are today is a result of decisions you made in the past and where you will be tomorow in every area of your life, is connected to what you do today and what you do

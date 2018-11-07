@@ -462,6 +462,49 @@ Foreign Trade Zones (tax dodge)
 		importer pays duty only when the product reaches it's final destination
 6 sigma tldr: Don't make a mistake
 
+DPMO (defects per million opportunities)
+	should be like 3 or some shit
+
+	DMAIC Cycle
+		developed by general Electric as a means of focussing effort on quality using methodological approach
+	Types of variation:
+		Assignable causes: factors that can be clearly identified and possibly managed. These can be eliminated
+		Natural/common causes: inherent to the production process. In order to reduce variation due to common causes, the process must be changed
+	tolerance limits Limits based on spec
+	control limits based on performance
+	statistics for the above stuff:
+		R chart
+		shows sample ranges over time of the variation of performance
+	
+	Lean Philosophy
+		lean production seeks to eliminate waste in operations from 
+		overproduction overhead
+		waiting time
+		transportation
+		excess inventory
+		over processing
+		excess motion
+		defects/rework
+	The 5 Ss of Waste Reduction
+	Sort(organize)
+	Set in order(tidynes)
+	Sweep(shine/purity: cleaning)
+	Standardize(cleanliness -- simplify processes)
+	Self-discipline(sustain/maintain)
+Kanban
+	pull production system
+	visual control system
+		composed of cards and containters
+Continuous Improvement(Kaizen)
+	continuous approach to reduce process, delivery, and quality prolems, such as machine breakdown problems, setup problems, and internal quality problems
+
+Plan, Do, Check, Act
+	make a plan to improve stuff
+	execute the change
+	study the results
+	institutionalize the change or abandon it
+
+
 
 
 Acronyms:
@@ -478,6 +521,7 @@ RSFE: Running Sum of Forecast Error
 MAD: Mean absolute deviation
 MAPE: Mean absolute percentage error
 CPFR: Collaborative Planning, Forecasting, and Replenishment
+DPMO: Defects Per million Opportunities
 
 Career tips:
 If you understand how someone is measured and rewarded, you will understand their behavior
@@ -507,7 +551,7 @@ Building Hard Drives
 Building Railroads
 Take out a home loan
 build a factory
-
+Metal Plating
 
 Buzzwords:
 win-win
@@ -519,6 +563,7 @@ notes for instructor evaluation:
 Good that he doesn't wear shorts
 bonus minutes friday of the week 9-20
 this class is so good people voluntarily showed up even though they weren't registered
+Use different examples than food. possibly toys or something else
 
 Presentation tips
 -don't use animations
@@ -526,6 +571,9 @@ Presentation tips
 
 shit to email Frank about:
 if any company uses a Q system for continuous review of inventory
+if you regularly calculate 7 or 8 decimals in careeer
+if you use jmp
+
 
 Evaluate wether or not you will make profit before you accept an order
 

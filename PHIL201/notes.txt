@@ -492,3 +492,86 @@ Which views hold that identity is all or nothing
 
 which views might recommend teleportation as a speedy way to travel?(do we need more information?)
 Which views might recommend cloning as a way to extend one's own lifetime? does it make a difference if the clone exists later or at the same time as the origininal
+
+Cohen asks "why does personal identity matter?"
+	Does it make a difference if someone really is weirob?
+	isn't it just as good if she thinks she's weirob and everyone treats her as if she is weirob
+
+Why does personal identity matter?
+practical consideratins:
+	paychecks, insurance, taxes, etc
+ethical considerations:
+justice
+	is it unjust for someoene else and not me to benefit from my work
+	is it unjust for someone else and not me to be punished for my bad action
+Friendship and live
+	friends have special obligations to friends and expectations from friends that they do not have for other people who merely resemble their friends
+responsibilities to oneself
+	without personal identity, there are no special duties to me; concern for "myself" is no different from concern for any other being
+
+psychological considerations:
+	setting of goals, anticipation
+	sense of responsibility
+	integrity
+
+
+new section
+vocab:
+	Agent: doer
+	surface freedoms vs free will
+		Surface Freedom: the freedom to perform types of actions; freedom from interference in performing acctions
+		Free will is something deeper: we'll find out
+		minimally, free will is a power or ability to make decisions and perform actions for which one may be held morally 	responsible:
+
+	responsibility vs ultimate responsibility
+		Responsibility: That in virtue of which one is held accountable for her decision or action
+		moral responsibility:
+		legal responsibility:
+	Ultimate Responsibility: the sources or origins of our actions are "in us" and not something else eg. God, manipulation and stuff like that
+		Consider:
+			a puppet
+			the movements of a remote control airplane
+			a person hypnotized to cluck like a chicken
+			the decisions of a brainwashed person
+			the decision and action of a person who deliberates independently of natural or social manipulation
+			a decision or action that proceeds from a will, charcter, or motive for which the agent is ultimately responsible
+	determinism: With th elaws of nature and initial configuration of the universe, there is only one causally possible future
+		laws of nature: the rules according to which natural change occurs
+		antecedent conditions: past states of the universe
+
+	Possible:
+		Causally possible: these particular circumstances(including the pst and the laws of nature may occur
+		logically possible: reguardless of the particular circumstances(ignoring laws of nature and the past) there is no contradiction to conceive
+		causal or logical possibility. Consider the following:
+			the doctor acts "can you wiggle your finger?"
+			the mathemetician asks "Can a circle be inscribed in a square?"
+			the engineer asks "Can this plane fly?"
+			the detective asks "could the thief still be in the building?"
+			Weirob asks "Can I survive bodily death?"
+	According to Kane, free will implies:
+	Alternate possibilities: although I made this choice or performed this action, I could have chosen or acted otherwise
+	Free will seems to imply
+	
+	Alternate Possibilities
+		Although I made this choice or performed this action, I could have chosen or acted otherwise
+	Ultimate responsibility
+		The source of my choice or action is in me , not in outside factors beyond my control.
+
+	An apparent conflict betwene free will and deteriminism:
+		If determinism is true:
+			there are no Alternate posibilities
+			No one has Ultimate Responsibility for what they decide or do
+	Compaitibilism = the view that free will and determinism do not conflict
+	incompatibilism = the view that free will and determinism do conflict
+
+	Classical compatibilism: 
+	past events --. Motives and past experience--> desires and aversions-->will(volition)->action
+
+	Freedom requires
+		1. A power or ability to do something; and
+		2. no constraints or impediments
+
+	does having a power mean that I actually use it?
+	where do I look for constraints or impediments
+	On this understanding of freedom, does determinism make actions unfree
+
