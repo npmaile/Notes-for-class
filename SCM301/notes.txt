@@ -504,9 +504,21 @@ Plan, Do, Check, Act
 	study the results
 	institutionalize the change or abandon it
 
+Project Management
+Project:
+	Start to the work and a Stopping point to the work
+Project Management: the management activities of a project
 
+The Iron Triangle:
+	a triangle with scope, cost and time on the corners
+	quality is in the middle
 
+	the tripple constraint in project management is the same sort of thing but it's 6 of em with schedule, resources, budget, quality, scope, and risk
 
+	a functional project is housed wiht in a functional division
+
+	Matrix project organization structure
+	
 Acronyms:
 TLA: Three letter acronym
 MRP: materials requirements planning
@@ -533,6 +545,10 @@ To always have a job:
 	predict the future with 100% accuracy (might be difficult)
 Show up 5 minutes early to meetings with your boss
 Most places do business between Monday and Friday
+When your boss comes to you and says "you're going to leave the project for", your first question should be "what kind of resources amd I going to get to accomplish this project?"
+if you succeed at implementing software, throw that on  resume, and get another job
+Your boss is never going to specify a minimum page length
+Don't fucken hire people who put milk in before cereal
 
 Prof's life pro tips:
 
@@ -543,6 +559,7 @@ don't piss off your spouse
 Don't run out of toilet paper
 If I ever have kids, use two bin system for diapers
 
+
 places prof says to travel to:
 Indonesia
 
@@ -552,6 +569,8 @@ Building Railroads
 Take out a home loan
 build a factory
 Metal Plating
+Watching Bridezillas
+
 
 Buzzwords:
 win-win

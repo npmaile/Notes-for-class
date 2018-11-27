@@ -575,3 +575,38 @@ vocab:
 	where do I look for constraints or impediments
 	On this understanding of freedom, does determinism make actions unfree
 
+	compatibilism says that despite determinism, we still have free will
+	
+	Most important to hobbes is that hte decision controls the action;
+	a different decision would produce a different action.
+	Conditional analysis of "Can":
+	"I could have done otherwise" means if I had chosen to do ____, that choice would cause ______ instead of ____-
+The consequence Argument:
+	1. I cannot now change the past
+	2. I cannot now change the laws of nature
+	3. I cannot now change the past and the laws of nature
+	4. If determinism is true, my persent action is the necessary consequence of the past and the laws of nature
+	5. I cannot now change the fact that determinism implies that my present action si the necessary consequence of the past and the laws of nature
+
+	therefore, if determinism is ture, I cannot now change my present action
+Some ncompatibilist options:
+	libertarianism: the view that 
+		1. incompatibilism is true;
+		2. humans sometimes have free will; and
+		3. determinism is false
+Hard incompaitibilism: the view that
+	1. incompatibilism is true; and
+	2. humans never have free will
+
+hard determinism: the view that 
+	1. incompatibilism is true;
+	2. determinism is ture; and 
+	3. humans never have free will because determinism is true
+
+soft determinism: the view that
+	1. compatibilism is true;
+	2. humans sometimes have free will; and
+	3. determinism is ture
+indeterminist condition: 
+	the agent is able to act and act otherwise given the same past circumstances and laws of nature
+		

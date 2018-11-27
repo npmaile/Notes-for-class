@@ -173,5 +173,33 @@ decreasing returns to scale if alpha plus beta < 1
 
 all cost functions can be written as a function of output not inputs
 
+Economies of Scope
+	when you make two different things and it's cheaper than making them separately
+
+Measures of market power
+Learner Index: 
+Learner index = (Price-marginal cost)/Price
+closer to zero is perfect competition
+closer to one is monopolistic
+
+Rothschild index:
+Rothschild inxex: Ownprice elasticity of the market/ownprice elasticity of the firm
+closer to zero is perfect competition
+closer to one is monopolistic
+
+HHI:
+Herfendal hershman index:
+square each firm's share in the market and multiply by 10,000
+unconcentrated less than 1000
+moderate between 1000 and 1800
+high above 1800
+
+
+C4
+four firm concentration ratio:
+share of sales in industry from the 4 largest firms
+sum of the four divided by the total shares
+
+
 Ladership quote of the day: 
 life is connected. Where you are today is a result of decisions you made in the past and where you will be tomorow in every area of your life, is connected to what you do today and what you do

@@ -247,4 +247,9 @@ Water as a depletable resource
 	instead of a renewable resouce, you can have nothing and just stop using it once the price is so high you don't want it anymore
 	with an externality:
 		the externality costs add to the marginal extraction costs. This increases the price path and you will go to using the renewable resource sooner
-
+	
+	How to solve these things
+	1. Get the marginal net benefits curbes
+	2. get the aggregate marginal net benefit curve aka the demand function minus the marginal cost
+	3. Find where the Agregate marginal net benefit curve intersects the fixed supply
+marginal user cost increases at a rate equal to the discount rate
